@@ -64,6 +64,21 @@ Response:
   {"description": "Zomato order", "amount": 450, "category": "Food"}
 ]
 ```
+### Example Query (Summary Report)
+POST → `/search_report`
+```json
+{ "query": "Show my travel expenses last month", "top_n": 5 }
+```
+Response:
+```json
+[
+{
+  "transactions": [...],
+  "report": "You spent ₹8,750 mostly on Travel and Food."
+}
+]
+```
+
 
 ---
 
