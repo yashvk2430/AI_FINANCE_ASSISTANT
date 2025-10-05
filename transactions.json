@@ -1,0 +1,4502 @@
+[
+    {
+        "id": "a0f75f57-a51c-448e-bae4-0803a052320a",
+        "userId": "user_1",
+        "date": "2025-07-20",
+        "description": "Animal kid glass one stock.",
+        "amount": 979,
+        "type": "Credit",
+        "category": "Food",
+        "balance": 39046
+    },
+    {
+        "id": "fd91a8d8-adcd-4629-97ef-61783f54f065",
+        "userId": "user_1",
+        "date": "2025-07-22",
+        "description": "Middle product significant.",
+        "amount": 1735,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 37311
+    },
+    {
+        "id": "ca65b538-c54b-49a0-a6ec-805c13ca1f67",
+        "userId": "user_1",
+        "date": "2025-08-29",
+        "description": "System air people.",
+        "amount": 1252,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 36059
+    },
+    {
+        "id": "45b3fd70-3216-41bb-882d-379b90fdd634",
+        "userId": "user_1",
+        "date": "2025-10-04",
+        "description": "Fight age car.",
+        "amount": 3614,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 32445
+    },
+    {
+        "id": "02803a9d-7fba-4e59-99d8-f4beaa8870d9",
+        "userId": "user_1",
+        "date": "2025-08-29",
+        "description": "Company inside remain wish laugh.",
+        "amount": 2554,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 34999
+    },
+    {
+        "id": "4c1654d9-fcbe-4b07-8e62-183ef8bc4c1d",
+        "userId": "user_1",
+        "date": "2025-10-01",
+        "description": "Recently blood use scientist law.",
+        "amount": 1430,
+        "type": "Credit",
+        "category": "Utilities",
+        "balance": 36429
+    },
+    {
+        "id": "770ad327-4b3f-4f27-9593-e61620718a1c",
+        "userId": "user_1",
+        "date": "2025-07-07",
+        "description": "Already worry usually recognize.",
+        "amount": 1501,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 34928
+    },
+    {
+        "id": "be9309df-2025-4423-aa94-eeafe482d59f",
+        "userId": "user_1",
+        "date": "2025-09-11",
+        "description": "Space grow program vote fly.",
+        "amount": 911,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 34017
+    },
+    {
+        "id": "0e53edf8-ef72-4c90-a89d-85103260cf73",
+        "userId": "user_1",
+        "date": "2025-08-14",
+        "description": "In pretty because.",
+        "amount": 4322,
+        "type": "Credit",
+        "category": "Utilities",
+        "balance": 38339
+    },
+    {
+        "id": "b11d0f7c-1393-4469-80f2-a27ec403186d",
+        "userId": "user_1",
+        "date": "2025-09-18",
+        "description": "These never itself picture first.",
+        "amount": 4497,
+        "type": "Credit",
+        "category": "Shopping",
+        "balance": 42836
+    },
+    {
+        "id": "83900f2d-821b-471e-adc9-3c5a47202c06",
+        "userId": "user_1",
+        "date": "2025-07-19",
+        "description": "Customer assume another anyone.",
+        "amount": 359,
+        "type": "Credit",
+        "category": "Shopping",
+        "balance": 43195
+    },
+    {
+        "id": "87851633-1904-46d4-aded-aba6c9aefcf0",
+        "userId": "user_1",
+        "date": "2025-09-02",
+        "description": "Since source color.",
+        "amount": 4484,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 38711
+    },
+    {
+        "id": "37ffa83f-e6cb-417d-aaca-c53f912de3fe",
+        "userId": "user_1",
+        "date": "2025-08-09",
+        "description": "Sure point fear seat candidate.",
+        "amount": 4736,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 33975
+    },
+    {
+        "id": "3024c945-9fbc-4153-ad97-1c3a4984af93",
+        "userId": "user_1",
+        "date": "2025-09-08",
+        "description": "Recent sure them practice.",
+        "amount": 2531,
+        "type": "Credit",
+        "category": "Rent",
+        "balance": 36506
+    },
+    {
+        "id": "15829508-760c-4ba9-b78c-ac4af5ba0579",
+        "userId": "user_1",
+        "date": "2025-09-23",
+        "description": "Source late lead maybe.",
+        "amount": 3274,
+        "type": "Credit",
+        "category": "Food",
+        "balance": 39780
+    },
+    {
+        "id": "8f160564-cb0c-4865-8ab6-77dd0678eaa9",
+        "userId": "user_1",
+        "date": "2025-07-19",
+        "description": "Born remain.",
+        "amount": 1304,
+        "type": "Credit",
+        "category": "Shopping",
+        "balance": 41084
+    },
+    {
+        "id": "2037f4c2-a794-48ac-8a1e-26f53923711d",
+        "userId": "user_1",
+        "date": "2025-08-26",
+        "description": "Could certainly generation.",
+        "amount": 3138,
+        "type": "Credit",
+        "category": "Others",
+        "balance": 44222
+    },
+    {
+        "id": "4cdd0483-6ff8-4a9b-84d3-44e124dfa98f",
+        "userId": "user_1",
+        "date": "2025-09-16",
+        "description": "Stuff ask student career.",
+        "amount": 1369,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 42853
+    },
+    {
+        "id": "4c473174-c78a-478c-91a8-96e1929b8728",
+        "userId": "user_1",
+        "date": "2025-08-10",
+        "description": "Fact land begin campaign.",
+        "amount": 3887,
+        "type": "Credit",
+        "category": "Shopping",
+        "balance": 46740
+    },
+    {
+        "id": "be7e8095-bd11-4500-b7d8-7321732c01de",
+        "userId": "user_1",
+        "date": "2025-09-04",
+        "description": "Ball store population summer.",
+        "amount": 611,
+        "type": "Credit",
+        "category": "Entertainment",
+        "balance": 47351
+    },
+    {
+        "id": "1556745f-ebad-4227-8f64-87ff0fcdd1fd",
+        "userId": "user_1",
+        "date": "2025-09-07",
+        "description": "World act all yet.",
+        "amount": 523,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 46828
+    },
+    {
+        "id": "1da5f02a-176a-461d-871d-b1221c4a44c7",
+        "userId": "user_1",
+        "date": "2025-08-25",
+        "description": "Worker happy treatment standard light.",
+        "amount": 1809,
+        "type": "Credit",
+        "category": "Others",
+        "balance": 48637
+    },
+    {
+        "id": "c024c80e-067b-462a-93bb-a99306d0b59d",
+        "userId": "user_1",
+        "date": "2025-09-04",
+        "description": "Message specific could involve.",
+        "amount": 4482,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 44155
+    },
+    {
+        "id": "8b38ce18-4934-496f-a8cb-b3936d3eac0c",
+        "userId": "user_1",
+        "date": "2025-07-27",
+        "description": "Oil number bit take.",
+        "amount": 4196,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 39959
+    },
+    {
+        "id": "8147b994-b66f-455c-92c8-ba9a191fb350",
+        "userId": "user_1",
+        "date": "2025-09-15",
+        "description": "Late order between hit agency.",
+        "amount": 3568,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 36391
+    },
+    {
+        "id": "c121853e-783e-4fda-aa94-79a0331a6df2",
+        "userId": "user_1",
+        "date": "2025-07-13",
+        "description": "Especially he available apply.",
+        "amount": 488,
+        "type": "Credit",
+        "category": "Shopping",
+        "balance": 36879
+    },
+    {
+        "id": "9ee69047-f018-4e56-ab53-bec99499e6d8",
+        "userId": "user_1",
+        "date": "2025-09-11",
+        "description": "Yes alone live.",
+        "amount": 2646,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 34233
+    },
+    {
+        "id": "00dfb94f-1624-49d3-91e1-9ff16413af00",
+        "userId": "user_1",
+        "date": "2025-09-08",
+        "description": "Laugh seat stand against.",
+        "amount": 2654,
+        "type": "Credit",
+        "category": "Rent",
+        "balance": 36887
+    },
+    {
+        "id": "6291a9e0-eaff-42e5-951b-f2a6ea8003bc",
+        "userId": "user_1",
+        "date": "2025-09-18",
+        "description": "Gas certain.",
+        "amount": 3655,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 33232
+    },
+    {
+        "id": "b79fade9-24d9-49bd-a39e-4e4332a35e89",
+        "userId": "user_1",
+        "date": "2025-09-27",
+        "description": "Church if federal.",
+        "amount": 703,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 32529
+    },
+    {
+        "id": "4d9abaae-38e9-484a-8786-ed0766d1f494",
+        "userId": "user_1",
+        "date": "2025-08-10",
+        "description": "Part culture recently.",
+        "amount": 3069,
+        "type": "Credit",
+        "category": "Rent",
+        "balance": 35598
+    },
+    {
+        "id": "5aeedbfa-ad12-4599-a288-be9f5f2a6b01",
+        "userId": "user_1",
+        "date": "2025-07-22",
+        "description": "Interesting great and fill.",
+        "amount": 2188,
+        "type": "Credit",
+        "category": "Food",
+        "balance": 37786
+    },
+    {
+        "id": "b300bd4b-04d6-4289-8628-0dba0b2b86e6",
+        "userId": "user_1",
+        "date": "2025-10-04",
+        "description": "Color society couple.",
+        "amount": 608,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 37178
+    },
+    {
+        "id": "625aea8e-1171-4188-9eed-271bd6ea3a1d",
+        "userId": "user_1",
+        "date": "2025-08-18",
+        "description": "Value minute happen.",
+        "amount": 3940,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 33238
+    },
+    {
+        "id": "324e2ffe-779f-4b0a-a9b3-25e7cd547cf1",
+        "userId": "user_1",
+        "date": "2025-07-29",
+        "description": "Method big.",
+        "amount": 4187,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 29051
+    },
+    {
+        "id": "e5fcf723-a0b1-4066-8ca3-91dd0a606f52",
+        "userId": "user_1",
+        "date": "2025-09-22",
+        "description": "Along as ready.",
+        "amount": 2414,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 26637
+    },
+    {
+        "id": "149d5a32-13c2-40cc-8396-e0c4b86e03b3",
+        "userId": "user_1",
+        "date": "2025-08-16",
+        "description": "Night per western conference.",
+        "amount": 3375,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 23262
+    },
+    {
+        "id": "74a029b9-4aac-4042-97e5-1227c6fd8bdb",
+        "userId": "user_1",
+        "date": "2025-08-19",
+        "description": "Research threat.",
+        "amount": 3338,
+        "type": "Credit",
+        "category": "Travel",
+        "balance": 26600
+    },
+    {
+        "id": "ef547bd5-10cc-4ad5-9349-b0b491bed6a3",
+        "userId": "user_1",
+        "date": "2025-10-03",
+        "description": "Store personal sound.",
+        "amount": 3964,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 22636
+    },
+    {
+        "id": "7ef51b06-d217-4dd5-8236-a480c89a05cb",
+        "userId": "user_1",
+        "date": "2025-07-16",
+        "description": "Minute air management health.",
+        "amount": 1252,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 21384
+    },
+    {
+        "id": "5f68583b-4f90-44d9-99db-42194c3987be",
+        "userId": "user_1",
+        "date": "2025-07-16",
+        "description": "Official effect.",
+        "amount": 2843,
+        "type": "Credit",
+        "category": "Shopping",
+        "balance": 24227
+    },
+    {
+        "id": "deb4255e-bf84-4155-904e-eb8fde1d5eb1",
+        "userId": "user_1",
+        "date": "2025-08-05",
+        "description": "President specific painting parent.",
+        "amount": 2688,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 21539
+    },
+    {
+        "id": "707012eb-111a-4883-b8fe-3878a9c0c515",
+        "userId": "user_1",
+        "date": "2025-08-02",
+        "description": "Yes idea rate approach.",
+        "amount": 2398,
+        "type": "Credit",
+        "category": "Entertainment",
+        "balance": 23937
+    },
+    {
+        "id": "a5aac053-9df7-4b00-b335-eb644c73bbf3",
+        "userId": "user_1",
+        "date": "2025-07-29",
+        "description": "Born why trip likely son.",
+        "amount": 135,
+        "type": "Credit",
+        "category": "Food",
+        "balance": 24072
+    },
+    {
+        "id": "dfa3b4ca-c956-4a22-81fb-861247a53517",
+        "userId": "user_1",
+        "date": "2025-07-20",
+        "description": "Pressure money.",
+        "amount": 645,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 23427
+    },
+    {
+        "id": "0abab659-843a-475c-be30-60952b52bdae",
+        "userId": "user_1",
+        "date": "2025-09-17",
+        "description": "About wind hard.",
+        "amount": 4593,
+        "type": "Credit",
+        "category": "Shopping",
+        "balance": 28020
+    },
+    {
+        "id": "fb929b0b-e6a4-4994-9dd1-947109d16de8",
+        "userId": "user_1",
+        "date": "2025-09-24",
+        "description": "Speak material science what drive.",
+        "amount": 3238,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 24782
+    },
+    {
+        "id": "7923a119-a93f-4f13-aa7b-0831153b2fe0",
+        "userId": "user_1",
+        "date": "2025-09-28",
+        "description": "Born every.",
+        "amount": 4996,
+        "type": "Credit",
+        "category": "Shopping",
+        "balance": 29778
+    },
+    {
+        "id": "0b806817-6c75-422b-8b16-8909d3c47947",
+        "userId": "user_1",
+        "date": "2025-08-08",
+        "description": "Heart first movie job baby.",
+        "amount": 2687,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 27091
+    },
+    {
+        "id": "dca7b0d8-55cc-4cca-9f09-8e36529a14bc",
+        "userId": "user_1",
+        "date": "2025-09-14",
+        "description": "Service yard particularly wonder.",
+        "amount": 4611,
+        "type": "Credit",
+        "category": "Utilities",
+        "balance": 31702
+    },
+    {
+        "id": "ac75dc0e-90b3-4a30-85a4-606b505e835a",
+        "userId": "user_1",
+        "date": "2025-09-20",
+        "description": "Receive social.",
+        "amount": 1750,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 29952
+    },
+    {
+        "id": "da513605-f669-46e0-9143-4293d0cd24e8",
+        "userId": "user_1",
+        "date": "2025-08-06",
+        "description": "Almost sign exist.",
+        "amount": 1602,
+        "type": "Credit",
+        "category": "Entertainment",
+        "balance": 31554
+    },
+    {
+        "id": "5cbe6766-005a-48a4-9e1c-f4ed3510e37f",
+        "userId": "user_1",
+        "date": "2025-08-19",
+        "description": "Recent body generation miss move.",
+        "amount": 4153,
+        "type": "Credit",
+        "category": "Rent",
+        "balance": 35707
+    },
+    {
+        "id": "7135c1dd-ea75-4b14-937b-89cc5f42a897",
+        "userId": "user_1",
+        "date": "2025-08-25",
+        "description": "Accept word.",
+        "amount": 752,
+        "type": "Credit",
+        "category": "Utilities",
+        "balance": 36459
+    },
+    {
+        "id": "9de86deb-eb5d-4570-9391-e389ff849c53",
+        "userId": "user_1",
+        "date": "2025-07-11",
+        "description": "Require movement kind discussion remain.",
+        "amount": 1550,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 38009
+    },
+    {
+        "id": "5046e77b-d18f-44d3-a233-370a7e728e3f",
+        "userId": "user_1",
+        "date": "2025-08-22",
+        "description": "Street yourself.",
+        "amount": 4928,
+        "type": "Credit",
+        "category": "Utilities",
+        "balance": 42937
+    },
+    {
+        "id": "5f0b968e-1c08-4b57-8c92-a22c065404fb",
+        "userId": "user_1",
+        "date": "2025-09-05",
+        "description": "And form news.",
+        "amount": 2042,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 40895
+    },
+    {
+        "id": "5e867073-9ea5-4fc3-9357-f994db11c568",
+        "userId": "user_1",
+        "date": "2025-09-15",
+        "description": "Generation eye lawyer ask note.",
+        "amount": 4161,
+        "type": "Credit",
+        "category": "Entertainment",
+        "balance": 45056
+    },
+    {
+        "id": "dc36f606-9c0e-42c0-98a1-d5846a08a2e4",
+        "userId": "user_1",
+        "date": "2025-10-04",
+        "description": "Bar affect.",
+        "amount": 4066,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 40990
+    },
+    {
+        "id": "7b562a4e-2957-4fd2-b1bc-4cdc93bc7d12",
+        "userId": "user_1",
+        "date": "2025-08-06",
+        "description": "Stage pick show room that.",
+        "amount": 812,
+        "type": "Credit",
+        "category": "Entertainment",
+        "balance": 41802
+    },
+    {
+        "id": "a7f7ae58-2e8b-4b00-94f2-22a595d60ba3",
+        "userId": "user_1",
+        "date": "2025-09-25",
+        "description": "Travel give.",
+        "amount": 3859,
+        "type": "Credit",
+        "category": "Shopping",
+        "balance": 45661
+    },
+    {
+        "id": "4aed2ac0-265b-417f-b47c-dd99ee0f0153",
+        "userId": "user_1",
+        "date": "2025-09-14",
+        "description": "Him eye gun three.",
+        "amount": 2108,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 43553
+    },
+    {
+        "id": "7ec5fb56-1460-43eb-b9ce-c3dc29b2fd5c",
+        "userId": "user_1",
+        "date": "2025-10-03",
+        "description": "That fear step edge.",
+        "amount": 2994,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 40559
+    },
+    {
+        "id": "e66547a0-be9c-4c6f-8250-a66fdc5027c5",
+        "userId": "user_1",
+        "date": "2025-09-04",
+        "description": "Control under good.",
+        "amount": 4803,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 35756
+    },
+    {
+        "id": "72d377e9-4fff-4f6f-a8cc-ebb3fa025a60",
+        "userId": "user_1",
+        "date": "2025-07-10",
+        "description": "Likely including quickly particularly professor.",
+        "amount": 2550,
+        "type": "Credit",
+        "category": "Utilities",
+        "balance": 38306
+    },
+    {
+        "id": "b73869d4-84c8-462e-b5aa-507be2b1d070",
+        "userId": "user_1",
+        "date": "2025-07-31",
+        "description": "Soldier find.",
+        "amount": 2003,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 36303
+    },
+    {
+        "id": "ea6c9ada-d703-4cbd-825b-b91b6583b869",
+        "userId": "user_1",
+        "date": "2025-09-24",
+        "description": "Break point training cup relate.",
+        "amount": 1063,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 35240
+    },
+    {
+        "id": "c48fa930-ead8-4e17-b33a-0fac38a53524",
+        "userId": "user_1",
+        "date": "2025-08-29",
+        "description": "Recognize kitchen final commercial.",
+        "amount": 1586,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 33654
+    },
+    {
+        "id": "19d1aa4f-7c8d-473d-b386-bc3412e3680b",
+        "userId": "user_1",
+        "date": "2025-07-24",
+        "description": "Forget need small.",
+        "amount": 4749,
+        "type": "Credit",
+        "category": "Rent",
+        "balance": 38403
+    },
+    {
+        "id": "15417af9-8d99-4786-983c-9cd761187283",
+        "userId": "user_1",
+        "date": "2025-07-16",
+        "description": "Around miss store.",
+        "amount": 2099,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 36304
+    },
+    {
+        "id": "21a86974-e6d1-42fc-ad9c-1f58059ab868",
+        "userId": "user_1",
+        "date": "2025-07-12",
+        "description": "Effect fine him huge.",
+        "amount": 1285,
+        "type": "Credit",
+        "category": "Utilities",
+        "balance": 37589
+    },
+    {
+        "id": "86742b1e-a401-411b-829d-62e553448338",
+        "userId": "user_1",
+        "date": "2025-07-20",
+        "description": "Do think inside.",
+        "amount": 1866,
+        "type": "Credit",
+        "category": "Travel",
+        "balance": 39455
+    },
+    {
+        "id": "ea9befa7-ac5a-4686-aa69-6cf34a252f83",
+        "userId": "user_1",
+        "date": "2025-07-31",
+        "description": "Third author receive left.",
+        "amount": 3789,
+        "type": "Credit",
+        "category": "Rent",
+        "balance": 43244
+    },
+    {
+        "id": "cd86e441-e9f8-4398-bbab-6f53b1ba53ab",
+        "userId": "user_1",
+        "date": "2025-08-24",
+        "description": "Front resource either.",
+        "amount": 2943,
+        "type": "Debit",
+        "category": "Salary",
+        "balance": 40301
+    },
+    {
+        "id": "15530867-c37a-457f-9f98-a542ba2f631e",
+        "userId": "user_1",
+        "date": "2025-09-19",
+        "description": "Win specific another hospital free.",
+        "amount": 4093,
+        "type": "Credit",
+        "category": "Travel",
+        "balance": 44394
+    },
+    {
+        "id": "7f6c1484-50a3-464a-86fe-b5c3eda85a1a",
+        "userId": "user_1",
+        "date": "2025-09-22",
+        "description": "Their anyone economic speak personal.",
+        "amount": 2838,
+        "type": "Credit",
+        "category": "Food",
+        "balance": 47232
+    },
+    {
+        "id": "c12ec66b-dbf3-4d9d-b7e1-a8c82ed6147d",
+        "userId": "user_1",
+        "date": "2025-08-02",
+        "description": "Effect rock.",
+        "amount": 2892,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 44340
+    },
+    {
+        "id": "16b70c19-be56-4b9d-8456-116ce18430a7",
+        "userId": "user_1",
+        "date": "2025-08-08",
+        "description": "Spring say five positive close.",
+        "amount": 2968,
+        "type": "Credit",
+        "category": "Entertainment",
+        "balance": 47308
+    },
+    {
+        "id": "d755b507-df4c-46cf-b10a-84f65359e5ee",
+        "userId": "user_1",
+        "date": "2025-08-04",
+        "description": "Sea heavy represent.",
+        "amount": 2402,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 44906
+    },
+    {
+        "id": "8c72ca63-28fd-4a1e-96be-ba9be5bcb71a",
+        "userId": "user_1",
+        "date": "2025-09-13",
+        "description": "Attack lead coach ever life.",
+        "amount": 3156,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 41750
+    },
+    {
+        "id": "07c472ea-fdf6-45e3-b0cf-3926b7bd41bd",
+        "userId": "user_1",
+        "date": "2025-07-08",
+        "description": "Big appear young low.",
+        "amount": 1582,
+        "type": "Credit",
+        "category": "Others",
+        "balance": 43332
+    },
+    {
+        "id": "a9f1da05-0d3e-4fe1-880e-7137f640fb09",
+        "userId": "user_1",
+        "date": "2025-08-16",
+        "description": "Character specific.",
+        "amount": 4885,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 48217
+    },
+    {
+        "id": "69676aad-92e4-43a5-8c7e-370f582fb5c7",
+        "userId": "user_1",
+        "date": "2025-09-13",
+        "description": "Theory model.",
+        "amount": 3096,
+        "type": "Credit",
+        "category": "Entertainment",
+        "balance": 51313
+    },
+    {
+        "id": "7f02f9ca-3c84-4998-b777-029eb8f1f9de",
+        "userId": "user_1",
+        "date": "2025-09-14",
+        "description": "Clear call today.",
+        "amount": 3674,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 47639
+    },
+    {
+        "id": "b84406cf-41f1-4a68-be78-abda8f0a2af4",
+        "userId": "user_1",
+        "date": "2025-07-24",
+        "description": "Reach professional.",
+        "amount": 4683,
+        "type": "Credit",
+        "category": "Utilities",
+        "balance": 52322
+    },
+    {
+        "id": "8b294c3c-a45d-45ed-800f-dc69a8116573",
+        "userId": "user_1",
+        "date": "2025-07-10",
+        "description": "Identify financial.",
+        "amount": 902,
+        "type": "Credit",
+        "category": "Travel",
+        "balance": 53224
+    },
+    {
+        "id": "0d1f68d2-b2ad-4e72-8b24-efcdc49bfd95",
+        "userId": "user_1",
+        "date": "2025-08-21",
+        "description": "Film pick present.",
+        "amount": 922,
+        "type": "Credit",
+        "category": "Others",
+        "balance": 54146
+    },
+    {
+        "id": "fd987e20-48df-4b60-b1de-96f1b4240744",
+        "userId": "user_1",
+        "date": "2025-08-14",
+        "description": "Manager the likely policy.",
+        "amount": 736,
+        "type": "Debit",
+        "category": "Salary",
+        "balance": 53410
+    },
+    {
+        "id": "2a6b254b-426a-4925-9afa-b1c0477b0de2",
+        "userId": "user_1",
+        "date": "2025-07-15",
+        "description": "There ten.",
+        "amount": 4790,
+        "type": "Credit",
+        "category": "Travel",
+        "balance": 58200
+    },
+    {
+        "id": "5b61edad-9808-4387-b442-597257c00e73",
+        "userId": "user_1",
+        "date": "2025-09-18",
+        "description": "Power stop coach nice.",
+        "amount": 2065,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 56135
+    },
+    {
+        "id": "3f55acaa-e3a9-49be-8b52-524d4e0c1770",
+        "userId": "user_1",
+        "date": "2025-08-17",
+        "description": "Rock security each.",
+        "amount": 4260,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 60395
+    },
+    {
+        "id": "de50b3e3-fd39-442c-a388-d0537e0f4eee",
+        "userId": "user_1",
+        "date": "2025-07-16",
+        "description": "Above she.",
+        "amount": 3042,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 57353
+    },
+    {
+        "id": "2bd204ad-19de-4bc5-938d-208c190c45ab",
+        "userId": "user_1",
+        "date": "2025-09-08",
+        "description": "Role career begin trade.",
+        "amount": 4929,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 52424
+    },
+    {
+        "id": "fdb6cd7a-b308-4d9b-ba61-33f2cf8b84eb",
+        "userId": "user_1",
+        "date": "2025-08-03",
+        "description": "Indicate analysis see outside.",
+        "amount": 946,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 51478
+    },
+    {
+        "id": "4c8dc11b-7e02-4155-be71-84a11792ff90",
+        "userId": "user_1",
+        "date": "2025-07-09",
+        "description": "Step threat office clear receive.",
+        "amount": 2876,
+        "type": "Credit",
+        "category": "Travel",
+        "balance": 54354
+    },
+    {
+        "id": "6727f0f3-ece4-465e-a8b2-48a3935c8b64",
+        "userId": "user_1",
+        "date": "2025-07-30",
+        "description": "Letter region seat.",
+        "amount": 1189,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 53165
+    },
+    {
+        "id": "1482b4a6-1877-41de-87a9-d559d796c963",
+        "userId": "user_1",
+        "date": "2025-07-26",
+        "description": "Meeting trial major.",
+        "amount": 3418,
+        "type": "Credit",
+        "category": "Utilities",
+        "balance": 56583
+    },
+    {
+        "id": "6682267a-cb6a-4333-9dee-0a41ffa7ce8c",
+        "userId": "user_1",
+        "date": "2025-10-01",
+        "description": "Baby see fund should fast.",
+        "amount": 3508,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 53075
+    },
+    {
+        "id": "276ceb71-e2e7-46fa-8da1-6b77f80eb00f",
+        "userId": "user_1",
+        "date": "2025-09-07",
+        "description": "Up him represent rule wife.",
+        "amount": 3276,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 49799
+    },
+    {
+        "id": "6e76c3cd-4098-4662-9e64-72c91b020e17",
+        "userId": "user_1",
+        "date": "2025-07-22",
+        "description": "Reduce enjoy mother.",
+        "amount": 4380,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 54179
+    },
+    {
+        "id": "64307a43-d41e-44fa-a410-c5dcbd3e2f6c",
+        "userId": "user_1",
+        "date": "2025-08-26",
+        "description": "Require once build our future.",
+        "amount": 4353,
+        "type": "Debit",
+        "category": "Salary",
+        "balance": 49826
+    },
+    {
+        "id": "d3cdfa18-5456-4c70-842a-37a3272096f1",
+        "userId": "user_1",
+        "date": "2025-10-04",
+        "description": "Field computer decade.",
+        "amount": 3020,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 46806
+    },
+    {
+        "id": "bb081810-8731-4fec-9ee0-964d2bc2edec",
+        "userId": "user_1",
+        "date": "2025-09-24",
+        "description": "Believe behavior.",
+        "amount": 4871,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 51677
+    },
+    {
+        "id": "de39cb72-b12c-4412-8c8c-4029c2dcd7cb",
+        "userId": "user_1",
+        "date": "2025-07-08",
+        "description": "Player need manager discussion again.",
+        "amount": 3667,
+        "type": "Credit",
+        "category": "Entertainment",
+        "balance": 55344
+    },
+    {
+        "id": "b3d5e45e-8e35-4072-a771-afb679acd7e2",
+        "userId": "user_1",
+        "date": "2025-08-09",
+        "description": "Represent particularly situation nice right.",
+        "amount": 1652,
+        "type": "Debit",
+        "category": "Salary",
+        "balance": 53692
+    },
+    {
+        "id": "86161382-51f4-432a-8314-eeb0045d0214",
+        "userId": "user_1",
+        "date": "2025-07-15",
+        "description": "Own hour baby establish.",
+        "amount": 4703,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 48989
+    },
+    {
+        "id": "1938640a-af1c-4294-b6e1-076e1875c2e8",
+        "userId": "user_1",
+        "date": "2025-10-02",
+        "description": "Information fund hit position north.",
+        "amount": 3023,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 45966
+    },
+    {
+        "id": "c179228d-f435-4907-967a-f18acec75491",
+        "userId": "user_1",
+        "date": "2025-09-15",
+        "description": "Laugh interest.",
+        "amount": 1449,
+        "type": "Credit",
+        "category": "Shopping",
+        "balance": 47415
+    },
+    {
+        "id": "4a0ec6c3-e3a7-41ff-b9cd-18a2056291b1",
+        "userId": "user_1",
+        "date": "2025-10-04",
+        "description": "Able important.",
+        "amount": 3756,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 43659
+    },
+    {
+        "id": "e556ed48-81cc-4567-9ede-2975d9543d8a",
+        "userId": "user_1",
+        "date": "2025-09-06",
+        "description": "Mention owner much success.",
+        "amount": 159,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 43818
+    },
+    {
+        "id": "e5f2ba23-f474-4aac-bb2c-1ed0ef6df70a",
+        "userId": "user_1",
+        "date": "2025-08-20",
+        "description": "Million simply he suffer such.",
+        "amount": 3132,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 40686
+    },
+    {
+        "id": "56bccad6-2f88-42f1-816a-5a510a4f892a",
+        "userId": "user_1",
+        "date": "2025-09-09",
+        "description": "If wait play modern trouble.",
+        "amount": 398,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 40288
+    },
+    {
+        "id": "63b32a7b-713c-4f00-a6f8-a4a9cf809da2",
+        "userId": "user_1",
+        "date": "2025-09-29",
+        "description": "Need describe push.",
+        "amount": 3209,
+        "type": "Credit",
+        "category": "Food",
+        "balance": 43497
+    },
+    {
+        "id": "e0035f37-8d7b-489f-ae39-7a4414c33842",
+        "userId": "user_1",
+        "date": "2025-09-24",
+        "description": "Decision official.",
+        "amount": 1634,
+        "type": "Credit",
+        "category": "Food",
+        "balance": 45131
+    },
+    {
+        "id": "13ee7677-885a-4ca4-8f5d-b86f5fe60e25",
+        "userId": "user_1",
+        "date": "2025-08-31",
+        "description": "Shoulder interest want.",
+        "amount": 4887,
+        "type": "Debit",
+        "category": "Salary",
+        "balance": 40244
+    },
+    {
+        "id": "17b1cf92-4d57-4e3c-a041-be929c1cfb15",
+        "userId": "user_1",
+        "date": "2025-08-22",
+        "description": "Mission black cell.",
+        "amount": 235,
+        "type": "Credit",
+        "category": "Others",
+        "balance": 40479
+    },
+    {
+        "id": "3a54e3c0-a657-42f1-8669-59955410bc34",
+        "userId": "user_1",
+        "date": "2025-09-14",
+        "description": "Gun soon step wrong.",
+        "amount": 391,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 40088
+    },
+    {
+        "id": "862b4733-a6ee-4e74-b44a-afe441e736ec",
+        "userId": "user_1",
+        "date": "2025-09-04",
+        "description": "Realize food piece.",
+        "amount": 4980,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 45068
+    },
+    {
+        "id": "aad3acfc-2daa-49e9-87ec-c430308e1bd4",
+        "userId": "user_1",
+        "date": "2025-08-31",
+        "description": "Partner society dinner new.",
+        "amount": 2024,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 43044
+    },
+    {
+        "id": "78cea37e-6869-4b3c-ab6a-271fbe392c67",
+        "userId": "user_1",
+        "date": "2025-09-17",
+        "description": "Wind image Congress.",
+        "amount": 3445,
+        "type": "Credit",
+        "category": "Rent",
+        "balance": 46489
+    },
+    {
+        "id": "0207129a-a70e-4657-929c-caaf518e1106",
+        "userId": "user_1",
+        "date": "2025-07-07",
+        "description": "Another consider sing.",
+        "amount": 3217,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 43272
+    },
+    {
+        "id": "6f14b1bb-6236-46e0-b7e7-f61ba4fa867b",
+        "userId": "user_1",
+        "date": "2025-08-05",
+        "description": "Ago red.",
+        "amount": 2081,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 41191
+    },
+    {
+        "id": "6bee95b1-7d2b-4e2f-88e0-df59973951d9",
+        "userId": "user_1",
+        "date": "2025-07-21",
+        "description": "Follow out girl scientist many.",
+        "amount": 652,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 40539
+    },
+    {
+        "id": "c5f4ec44-5579-4cbf-abd7-3d502127d0d7",
+        "userId": "user_1",
+        "date": "2025-09-21",
+        "description": "Lose together their attack company.",
+        "amount": 3354,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 37185
+    },
+    {
+        "id": "1889df1f-2bc2-49fa-b32f-801b5ea61905",
+        "userId": "user_1",
+        "date": "2025-08-19",
+        "description": "Concern area create stand.",
+        "amount": 189,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 36996
+    },
+    {
+        "id": "d5e3b946-e656-4375-a152-8a8002e00ac8",
+        "userId": "user_1",
+        "date": "2025-08-08",
+        "description": "Month though third act trouble.",
+        "amount": 1657,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 35339
+    },
+    {
+        "id": "e33d0771-aa9f-4940-aad2-5bf435426cfb",
+        "userId": "user_1",
+        "date": "2025-08-12",
+        "description": "Action year wish structure.",
+        "amount": 3038,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 32301
+    },
+    {
+        "id": "41c43176-b4cd-49fc-b7cd-1fc29c027c27",
+        "userId": "user_1",
+        "date": "2025-08-28",
+        "description": "Help for benefit they.",
+        "amount": 3446,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 28855
+    },
+    {
+        "id": "ddb6ec13-c7ec-4d62-9d21-e8d7b445020a",
+        "userId": "user_1",
+        "date": "2025-08-29",
+        "description": "Difference reason international try.",
+        "amount": 2296,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 26559
+    },
+    {
+        "id": "db8fa0d0-f3c4-47f8-b75d-16732696fbbe",
+        "userId": "user_1",
+        "date": "2025-07-28",
+        "description": "Another she.",
+        "amount": 2811,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 23748
+    },
+    {
+        "id": "f1d18beb-d2cc-42df-a096-cfe06cc43f0c",
+        "userId": "user_1",
+        "date": "2025-08-14",
+        "description": "Suggest fund say shoulder.",
+        "amount": 3920,
+        "type": "Credit",
+        "category": "Entertainment",
+        "balance": 27668
+    },
+    {
+        "id": "c11e0e04-6104-417b-a6a7-6d0d1467b6f5",
+        "userId": "user_1",
+        "date": "2025-07-27",
+        "description": "Per personal their.",
+        "amount": 1474,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 26194
+    },
+    {
+        "id": "e1b6b121-6b23-4d5c-bc4b-80fa55d0de39",
+        "userId": "user_1",
+        "date": "2025-08-28",
+        "description": "Dream national film option age.",
+        "amount": 361,
+        "type": "Credit",
+        "category": "Rent",
+        "balance": 26555
+    },
+    {
+        "id": "4596e3a4-32bd-446b-a894-5a10ca1f2603",
+        "userId": "user_1",
+        "date": "2025-08-09",
+        "description": "Budget kind.",
+        "amount": 1709,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 24846
+    },
+    {
+        "id": "07238450-86d4-4087-9fc1-239c2f4a6b66",
+        "userId": "user_1",
+        "date": "2025-08-01",
+        "description": "Seem little do.",
+        "amount": 2490,
+        "type": "Debit",
+        "category": "Salary",
+        "balance": 22356
+    },
+    {
+        "id": "c4577879-5be7-4439-be36-19785c99bac6",
+        "userId": "user_1",
+        "date": "2025-08-10",
+        "description": "Laugh maintain like society.",
+        "amount": 2388,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 19968
+    },
+    {
+        "id": "00746af7-71f0-4bfb-b9f0-9dcdb863aeea",
+        "userId": "user_1",
+        "date": "2025-08-13",
+        "description": "Cold shake require writer.",
+        "amount": 3771,
+        "type": "Credit",
+        "category": "Entertainment",
+        "balance": 23739
+    },
+    {
+        "id": "ac28a95d-d7bf-4fa7-8f9f-0a130f2e3f93",
+        "userId": "user_1",
+        "date": "2025-08-06",
+        "description": "Level effect conference recently.",
+        "amount": 868,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 24607
+    },
+    {
+        "id": "d2d37677-ad24-445c-8e67-055544e31b8d",
+        "userId": "user_1",
+        "date": "2025-09-09",
+        "description": "Heart course control.",
+        "amount": 4144,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 28751
+    },
+    {
+        "id": "41d466a3-550a-45fa-be3f-c969b75688bd",
+        "userId": "user_1",
+        "date": "2025-08-22",
+        "description": "Yes city carry black.",
+        "amount": 4650,
+        "type": "Credit",
+        "category": "Rent",
+        "balance": 33401
+    },
+    {
+        "id": "5a2b86ee-fcfb-4b08-8e59-396e46348c9b",
+        "userId": "user_1",
+        "date": "2025-07-28",
+        "description": "One rich without all change.",
+        "amount": 4998,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 28403
+    },
+    {
+        "id": "fa52549b-9d57-4dd6-84e8-f29050aa8171",
+        "userId": "user_1",
+        "date": "2025-09-10",
+        "description": "Call trial speech system share.",
+        "amount": 2857,
+        "type": "Credit",
+        "category": "Shopping",
+        "balance": 31260
+    },
+    {
+        "id": "c3cc5649-4435-46b6-b2df-cf1330585f9a",
+        "userId": "user_1",
+        "date": "2025-09-14",
+        "description": "Quality boy.",
+        "amount": 994,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 30266
+    },
+    {
+        "id": "46209f94-0416-4fb6-ba0c-05935692cdf9",
+        "userId": "user_1",
+        "date": "2025-07-31",
+        "description": "Call particularly him decide.",
+        "amount": 4361,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 25905
+    },
+    {
+        "id": "5c6d29a2-ca36-4f6e-8c05-29291003fc7c",
+        "userId": "user_1",
+        "date": "2025-08-24",
+        "description": "Four property.",
+        "amount": 4680,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 21225
+    },
+    {
+        "id": "6b838a47-ebfe-4da4-b5fc-0f71506d638f",
+        "userId": "user_1",
+        "date": "2025-08-21",
+        "description": "Learn environment attack.",
+        "amount": 499,
+        "type": "Credit",
+        "category": "Shopping",
+        "balance": 21724
+    },
+    {
+        "id": "a3d99890-921d-4aa7-8e49-233ff7d7ec2d",
+        "userId": "user_1",
+        "date": "2025-08-31",
+        "description": "Sport else position.",
+        "amount": 3915,
+        "type": "Debit",
+        "category": "Salary",
+        "balance": 17809
+    },
+    {
+        "id": "50fac482-ea8e-44cb-b637-b04a177e5f93",
+        "userId": "user_1",
+        "date": "2025-07-17",
+        "description": "A political business.",
+        "amount": 2521,
+        "type": "Credit",
+        "category": "Rent",
+        "balance": 20330
+    },
+    {
+        "id": "22fa4fa9-8b67-41ed-9185-12a847b0a739",
+        "userId": "user_1",
+        "date": "2025-09-25",
+        "description": "Training game ground evidence.",
+        "amount": 2575,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 17755
+    },
+    {
+        "id": "2869897a-f702-4dc3-8593-f8841c140050",
+        "userId": "user_1",
+        "date": "2025-08-14",
+        "description": "Kid of.",
+        "amount": 3673,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 14082
+    },
+    {
+        "id": "3bf244e9-1fb1-406a-9289-7dd2cbba8f93",
+        "userId": "user_2",
+        "date": "2025-08-03",
+        "description": "Improve staff.",
+        "amount": 2607,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 40430
+    },
+    {
+        "id": "fc7c9078-6a41-4316-bd46-b999f73db9cb",
+        "userId": "user_2",
+        "date": "2025-09-30",
+        "description": "Which level tree difference.",
+        "amount": 2008,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 38422
+    },
+    {
+        "id": "533d0695-a281-42fa-98db-1e1eec3b9c27",
+        "userId": "user_2",
+        "date": "2025-08-07",
+        "description": "Statement reason end physical break.",
+        "amount": 1364,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 37058
+    },
+    {
+        "id": "c81d2dc5-e681-44e5-86a0-8a96f54a6390",
+        "userId": "user_2",
+        "date": "2025-08-17",
+        "description": "Analysis protect person surface.",
+        "amount": 3241,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 33817
+    },
+    {
+        "id": "f27be638-07f3-4181-8f45-f458b07c2e1d",
+        "userId": "user_2",
+        "date": "2025-09-23",
+        "description": "Discussion might image poor follow.",
+        "amount": 439,
+        "type": "Credit",
+        "category": "Entertainment",
+        "balance": 34256
+    },
+    {
+        "id": "6344cacc-e94d-4eed-8d5a-cab769d103a3",
+        "userId": "user_2",
+        "date": "2025-08-14",
+        "description": "Play choice rate cup.",
+        "amount": 2371,
+        "type": "Credit",
+        "category": "Rent",
+        "balance": 36627
+    },
+    {
+        "id": "7e6b8c2a-36ab-41cf-aa57-6567d3502de3",
+        "userId": "user_2",
+        "date": "2025-07-19",
+        "description": "Whom its professional player.",
+        "amount": 4260,
+        "type": "Credit",
+        "category": "Rent",
+        "balance": 40887
+    },
+    {
+        "id": "4ad11e32-bb0c-496b-b691-20a71d6e960c",
+        "userId": "user_2",
+        "date": "2025-09-10",
+        "description": "Best cause wait.",
+        "amount": 3166,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 37721
+    },
+    {
+        "id": "1238d458-a367-4466-80e5-4e97de58d8f4",
+        "userId": "user_2",
+        "date": "2025-08-22",
+        "description": "Pressure offer every stay.",
+        "amount": 4525,
+        "type": "Credit",
+        "category": "Rent",
+        "balance": 42246
+    },
+    {
+        "id": "2ac22437-6af2-45c8-9096-988b69a7d36e",
+        "userId": "user_2",
+        "date": "2025-09-13",
+        "description": "Material break author case military.",
+        "amount": 513,
+        "type": "Credit",
+        "category": "Food",
+        "balance": 42759
+    },
+    {
+        "id": "fce6ebb9-e0ed-47fd-a6bc-b10810f07185",
+        "userId": "user_2",
+        "date": "2025-09-25",
+        "description": "Executive image happen.",
+        "amount": 523,
+        "type": "Credit",
+        "category": "Shopping",
+        "balance": 43282
+    },
+    {
+        "id": "455861ff-9d2c-4df3-819e-a1980dba0909",
+        "userId": "user_2",
+        "date": "2025-07-20",
+        "description": "Process probably.",
+        "amount": 623,
+        "type": "Credit",
+        "category": "Shopping",
+        "balance": 43905
+    },
+    {
+        "id": "4002efc9-00bf-440d-88c3-edfe30127ecf",
+        "userId": "user_2",
+        "date": "2025-08-04",
+        "description": "List because arm word deal.",
+        "amount": 2853,
+        "type": "Credit",
+        "category": "Food",
+        "balance": 46758
+    },
+    {
+        "id": "63bdc3e6-8799-4f7a-8e47-5d5e20e24007",
+        "userId": "user_2",
+        "date": "2025-09-15",
+        "description": "Despite imagine maintain part.",
+        "amount": 2918,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 43840
+    },
+    {
+        "id": "8c257326-ef5a-4b97-8d6a-9bbf65d9d891",
+        "userId": "user_2",
+        "date": "2025-09-21",
+        "description": "Health evening candidate of.",
+        "amount": 3256,
+        "type": "Debit",
+        "category": "Salary",
+        "balance": 40584
+    },
+    {
+        "id": "ebb30565-5478-4936-84f1-abefbec8c2c0",
+        "userId": "user_2",
+        "date": "2025-07-23",
+        "description": "Ahead majority economic.",
+        "amount": 2954,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 37630
+    },
+    {
+        "id": "45cc44dc-a24e-4305-8821-e7b9c09adcdb",
+        "userId": "user_2",
+        "date": "2025-09-16",
+        "description": "Son history research.",
+        "amount": 3080,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 34550
+    },
+    {
+        "id": "3276a4c1-34f5-462b-9efc-19814f7c1191",
+        "userId": "user_2",
+        "date": "2025-07-26",
+        "description": "Rock both.",
+        "amount": 4349,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 30201
+    },
+    {
+        "id": "f3e952bf-18b2-4d20-a4f9-220c7a7bfee0",
+        "userId": "user_2",
+        "date": "2025-08-24",
+        "description": "Player evidence look ago.",
+        "amount": 3559,
+        "type": "Credit",
+        "category": "Travel",
+        "balance": 33760
+    },
+    {
+        "id": "a4686cf8-1b43-42ae-99ab-7fb3462d3796",
+        "userId": "user_2",
+        "date": "2025-08-28",
+        "description": "Only write local live.",
+        "amount": 4177,
+        "type": "Credit",
+        "category": "Utilities",
+        "balance": 37937
+    },
+    {
+        "id": "b093ed46-b898-4523-8044-642421e1642f",
+        "userId": "user_2",
+        "date": "2025-07-21",
+        "description": "Herself modern enjoy house.",
+        "amount": 3904,
+        "type": "Credit",
+        "category": "Entertainment",
+        "balance": 41841
+    },
+    {
+        "id": "32cb1173-8872-4d58-ae50-59f5a520cd65",
+        "userId": "user_2",
+        "date": "2025-08-14",
+        "description": "Establish finish discussion industry.",
+        "amount": 1369,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 40472
+    },
+    {
+        "id": "c8b2219a-c038-47f0-adcd-a2e9f11f1979",
+        "userId": "user_2",
+        "date": "2025-07-20",
+        "description": "Lead their.",
+        "amount": 1554,
+        "type": "Debit",
+        "category": "Salary",
+        "balance": 38918
+    },
+    {
+        "id": "54a16026-f63f-4814-bd13-eb3d643f87a5",
+        "userId": "user_2",
+        "date": "2025-08-19",
+        "description": "Bad nature training condition quality.",
+        "amount": 4765,
+        "type": "Credit",
+        "category": "Food",
+        "balance": 43683
+    },
+    {
+        "id": "e085de42-eea0-44f9-982d-aa2b712e2ac2",
+        "userId": "user_2",
+        "date": "2025-09-25",
+        "description": "Such purpose today.",
+        "amount": 4752,
+        "type": "Debit",
+        "category": "Salary",
+        "balance": 38931
+    },
+    {
+        "id": "779e5837-23d4-4ce1-8984-a9b5686922bf",
+        "userId": "user_2",
+        "date": "2025-09-06",
+        "description": "Tv toward responsibility bill.",
+        "amount": 387,
+        "type": "Credit",
+        "category": "Others",
+        "balance": 39318
+    },
+    {
+        "id": "f22de45e-83bd-4168-9a50-73857bfad192",
+        "userId": "user_2",
+        "date": "2025-09-04",
+        "description": "Investment owner sense teacher.",
+        "amount": 3672,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 35646
+    },
+    {
+        "id": "7eb16ec8-3278-4522-b631-a67e7e9e9dda",
+        "userId": "user_2",
+        "date": "2025-07-16",
+        "description": "Individual picture scientist of source.",
+        "amount": 3581,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 39227
+    },
+    {
+        "id": "e9e47562-41f2-4dca-afde-3da07736268c",
+        "userId": "user_2",
+        "date": "2025-08-02",
+        "description": "Pretty must adult cultural body.",
+        "amount": 2989,
+        "type": "Credit",
+        "category": "Travel",
+        "balance": 42216
+    },
+    {
+        "id": "c1280614-963a-499b-996c-9cf4d3fe5fdc",
+        "userId": "user_2",
+        "date": "2025-08-15",
+        "description": "Growth international term.",
+        "amount": 3849,
+        "type": "Credit",
+        "category": "Utilities",
+        "balance": 46065
+    },
+    {
+        "id": "25808e8a-c04f-4d9a-8d3e-eb030aab5a67",
+        "userId": "user_2",
+        "date": "2025-09-08",
+        "description": "Among for memory.",
+        "amount": 3352,
+        "type": "Credit",
+        "category": "Shopping",
+        "balance": 49417
+    },
+    {
+        "id": "37912cd5-416a-45e0-bdc8-953d73caedcd",
+        "userId": "user_2",
+        "date": "2025-10-03",
+        "description": "Certainly investment trial project.",
+        "amount": 600,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 48817
+    },
+    {
+        "id": "c552b56b-e2b8-49ac-ace7-836c11474031",
+        "userId": "user_2",
+        "date": "2025-07-29",
+        "description": "Law because magazine.",
+        "amount": 3713,
+        "type": "Credit",
+        "category": "Others",
+        "balance": 52530
+    },
+    {
+        "id": "35a3f614-d693-4c22-be49-66bfb68593cc",
+        "userId": "user_2",
+        "date": "2025-07-16",
+        "description": "Energy mind building.",
+        "amount": 4613,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 47917
+    },
+    {
+        "id": "477437c0-5fff-4983-92c4-0f2b36b87e75",
+        "userId": "user_2",
+        "date": "2025-07-26",
+        "description": "Nature get.",
+        "amount": 4794,
+        "type": "Credit",
+        "category": "Travel",
+        "balance": 52711
+    },
+    {
+        "id": "0473a4c9-24bd-4a0c-af7e-3c6685d58abb",
+        "userId": "user_2",
+        "date": "2025-09-17",
+        "description": "However news too size.",
+        "amount": 3292,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 49419
+    },
+    {
+        "id": "c68880ee-312c-4ae4-9bed-3fda9d6c379e",
+        "userId": "user_2",
+        "date": "2025-08-26",
+        "description": "Shake tend there alone.",
+        "amount": 4450,
+        "type": "Credit",
+        "category": "Others",
+        "balance": 53869
+    },
+    {
+        "id": "45aa019a-b0e2-474f-80a3-794d59382462",
+        "userId": "user_2",
+        "date": "2025-09-13",
+        "description": "Bring study power party.",
+        "amount": 2289,
+        "type": "Debit",
+        "category": "Salary",
+        "balance": 51580
+    },
+    {
+        "id": "292524f5-088a-44ad-85f5-f3b70ad60ca1",
+        "userId": "user_2",
+        "date": "2025-08-29",
+        "description": "Reach agreement.",
+        "amount": 2138,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 49442
+    },
+    {
+        "id": "12888f8d-a89b-4404-8433-eecbcff9385d",
+        "userId": "user_2",
+        "date": "2025-09-17",
+        "description": "Need staff improve various.",
+        "amount": 516,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 49958
+    },
+    {
+        "id": "f384fc85-c825-4361-8a69-52aeb86830fa",
+        "userId": "user_2",
+        "date": "2025-07-16",
+        "description": "Movie late make gas question.",
+        "amount": 1904,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 48054
+    },
+    {
+        "id": "4c8cc2ed-d751-43bd-bcb0-1bf7d4e0ca46",
+        "userId": "user_2",
+        "date": "2025-08-28",
+        "description": "Hundred owner any economy.",
+        "amount": 311,
+        "type": "Credit",
+        "category": "Others",
+        "balance": 48365
+    },
+    {
+        "id": "4a95b81f-e1b7-47ec-b03c-166b396ea42e",
+        "userId": "user_2",
+        "date": "2025-08-05",
+        "description": "Apply size.",
+        "amount": 3240,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 45125
+    },
+    {
+        "id": "57447720-43b1-48f8-bca6-79eb2478c54a",
+        "userId": "user_2",
+        "date": "2025-07-31",
+        "description": "Customer answer action owner from.",
+        "amount": 1583,
+        "type": "Credit",
+        "category": "Rent",
+        "balance": 46708
+    },
+    {
+        "id": "b59590a4-264e-4f64-a680-e3fd113861da",
+        "userId": "user_2",
+        "date": "2025-07-31",
+        "description": "Require window rock.",
+        "amount": 1010,
+        "type": "Credit",
+        "category": "Entertainment",
+        "balance": 47718
+    },
+    {
+        "id": "7e285a07-1ec9-4735-b784-0296a77e3696",
+        "userId": "user_2",
+        "date": "2025-08-02",
+        "description": "Either marriage.",
+        "amount": 4533,
+        "type": "Credit",
+        "category": "Shopping",
+        "balance": 52251
+    },
+    {
+        "id": "d8a875c1-6bfd-4b6e-a2bd-e806acd7da9c",
+        "userId": "user_2",
+        "date": "2025-09-08",
+        "description": "Culture war economic.",
+        "amount": 2876,
+        "type": "Credit",
+        "category": "Travel",
+        "balance": 55127
+    },
+    {
+        "id": "e4358c44-7515-4464-95b2-7e7c7c93d5c1",
+        "userId": "user_2",
+        "date": "2025-09-12",
+        "description": "Far none.",
+        "amount": 954,
+        "type": "Credit",
+        "category": "Entertainment",
+        "balance": 56081
+    },
+    {
+        "id": "d985fa26-4f1f-4ea3-a64f-da16ea153782",
+        "userId": "user_2",
+        "date": "2025-09-03",
+        "description": "Range establish.",
+        "amount": 1377,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 54704
+    },
+    {
+        "id": "eb796015-0af7-4964-aae0-fd643bfa3a8a",
+        "userId": "user_2",
+        "date": "2025-10-03",
+        "description": "Whom offer western.",
+        "amount": 4030,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 50674
+    },
+    {
+        "id": "03e3ff1e-edbb-49be-bca9-d5aac436f034",
+        "userId": "user_2",
+        "date": "2025-09-06",
+        "description": "Nearly Democrat carry summer rise.",
+        "amount": 471,
+        "type": "Credit",
+        "category": "Entertainment",
+        "balance": 51145
+    },
+    {
+        "id": "31fbbdba-271a-4348-8d7d-0e7887b62978",
+        "userId": "user_2",
+        "date": "2025-07-08",
+        "description": "Significant similar when fire.",
+        "amount": 674,
+        "type": "Credit",
+        "category": "Utilities",
+        "balance": 51819
+    },
+    {
+        "id": "e9777a70-f162-498c-a4c9-44270531d836",
+        "userId": "user_2",
+        "date": "2025-08-29",
+        "description": "Standard will short marriage move.",
+        "amount": 117,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 51936
+    },
+    {
+        "id": "102fe45f-b6e4-42bc-9ad8-c9c44ecb001b",
+        "userId": "user_2",
+        "date": "2025-09-09",
+        "description": "Key claim once.",
+        "amount": 3704,
+        "type": "Credit",
+        "category": "Food",
+        "balance": 55640
+    },
+    {
+        "id": "d00dffdd-50b0-4999-8439-4f9516e7dc13",
+        "userId": "user_2",
+        "date": "2025-07-22",
+        "description": "Write food.",
+        "amount": 4445,
+        "type": "Debit",
+        "category": "Salary",
+        "balance": 51195
+    },
+    {
+        "id": "7231cefd-32cf-417b-a455-67b1d90f807f",
+        "userId": "user_2",
+        "date": "2025-09-23",
+        "description": "Current body professional both participant.",
+        "amount": 3359,
+        "type": "Credit",
+        "category": "Utilities",
+        "balance": 54554
+    },
+    {
+        "id": "8fdb3866-2192-4666-a450-83687b508aa6",
+        "userId": "user_2",
+        "date": "2025-08-21",
+        "description": "Join me.",
+        "amount": 4063,
+        "type": "Credit",
+        "category": "Travel",
+        "balance": 58617
+    },
+    {
+        "id": "0b9d3b6f-904e-4e07-97c7-a9b6441ba861",
+        "userId": "user_2",
+        "date": "2025-09-11",
+        "description": "We deep rock.",
+        "amount": 2993,
+        "type": "Credit",
+        "category": "Entertainment",
+        "balance": 61610
+    },
+    {
+        "id": "204e63c1-3276-4575-a463-ef61f5b4a5de",
+        "userId": "user_2",
+        "date": "2025-07-21",
+        "description": "Security strong few sister.",
+        "amount": 3257,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 64867
+    },
+    {
+        "id": "db0b0ccc-765a-4563-8c29-3af2d16bc34e",
+        "userId": "user_2",
+        "date": "2025-08-13",
+        "description": "Employee small think just fast.",
+        "amount": 622,
+        "type": "Credit",
+        "category": "Utilities",
+        "balance": 65489
+    },
+    {
+        "id": "013ed85a-47d2-46bd-8d91-2d546b34eb83",
+        "userId": "user_2",
+        "date": "2025-08-25",
+        "description": "Look attack.",
+        "amount": 3926,
+        "type": "Debit",
+        "category": "Salary",
+        "balance": 61563
+    },
+    {
+        "id": "4ce5607b-c1ce-4ac6-b168-aa1d74fd39d0",
+        "userId": "user_2",
+        "date": "2025-09-19",
+        "description": "Increase mention never quite.",
+        "amount": 882,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 60681
+    },
+    {
+        "id": "40580d29-f355-4c9e-8303-95f98a1c5975",
+        "userId": "user_2",
+        "date": "2025-09-07",
+        "description": "Matter throughout president share interest.",
+        "amount": 3164,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 57517
+    },
+    {
+        "id": "419ba57a-ab0f-4b1a-82fe-fb2d4ff66bc0",
+        "userId": "user_2",
+        "date": "2025-09-01",
+        "description": "Start professional.",
+        "amount": 4564,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 52953
+    },
+    {
+        "id": "a231f107-c9ca-4cfe-8e19-8c2a5a08f81d",
+        "userId": "user_2",
+        "date": "2025-09-29",
+        "description": "Lay result green table.",
+        "amount": 3029,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 55982
+    },
+    {
+        "id": "fbdd32a3-e5bc-4651-b1c5-97f7f366a2f1",
+        "userId": "user_2",
+        "date": "2025-07-31",
+        "description": "Newspaper audience since.",
+        "amount": 2927,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 58909
+    },
+    {
+        "id": "8713e05a-be00-4a2d-ac13-3635f3fe73c9",
+        "userId": "user_2",
+        "date": "2025-07-27",
+        "description": "East woman brother.",
+        "amount": 1091,
+        "type": "Credit",
+        "category": "Others",
+        "balance": 60000
+    },
+    {
+        "id": "1ff81019-c2b9-4508-8246-c30159967b26",
+        "userId": "user_2",
+        "date": "2025-09-27",
+        "description": "Ground worry do quickly.",
+        "amount": 3996,
+        "type": "Credit",
+        "category": "Others",
+        "balance": 63996
+    },
+    {
+        "id": "7d8376cb-23e6-44ed-8c5f-a098c2ef9f6e",
+        "userId": "user_2",
+        "date": "2025-09-19",
+        "description": "Mrs nice risk.",
+        "amount": 2089,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 61907
+    },
+    {
+        "id": "b9f5530d-cdc6-4363-a8f5-34f74537f9fc",
+        "userId": "user_2",
+        "date": "2025-08-24",
+        "description": "Need thing how moment.",
+        "amount": 841,
+        "type": "Debit",
+        "category": "Salary",
+        "balance": 61066
+    },
+    {
+        "id": "2dc0616e-0397-4c0d-9895-64ce417e021c",
+        "userId": "user_2",
+        "date": "2025-09-26",
+        "description": "Whose special win activity.",
+        "amount": 1157,
+        "type": "Debit",
+        "category": "Salary",
+        "balance": 59909
+    },
+    {
+        "id": "936805d5-6bc4-41b6-ac18-693216b44566",
+        "userId": "user_2",
+        "date": "2025-08-06",
+        "description": "None garden western thousand.",
+        "amount": 2618,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 62527
+    },
+    {
+        "id": "2b656df4-f511-4467-8fe5-20cd7046b794",
+        "userId": "user_2",
+        "date": "2025-09-22",
+        "description": "Day fly western.",
+        "amount": 474,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 62053
+    },
+    {
+        "id": "cd3eb59f-01a8-4c10-81ed-26f9608d0e1e",
+        "userId": "user_2",
+        "date": "2025-10-02",
+        "description": "Feeling technology street.",
+        "amount": 4602,
+        "type": "Credit",
+        "category": "Food",
+        "balance": 66655
+    },
+    {
+        "id": "875862cd-2a8f-417c-be71-34fae2b0a90a",
+        "userId": "user_2",
+        "date": "2025-07-17",
+        "description": "Choose store environmental owner for.",
+        "amount": 142,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 66513
+    },
+    {
+        "id": "472489d1-d4ce-448a-8be6-a08512b382ba",
+        "userId": "user_2",
+        "date": "2025-08-08",
+        "description": "Food deep former treatment.",
+        "amount": 3224,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 63289
+    },
+    {
+        "id": "2282b3f3-14e3-4e07-864a-b4aa12acb9d1",
+        "userId": "user_2",
+        "date": "2025-07-10",
+        "description": "Pattern see.",
+        "amount": 2168,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 61121
+    },
+    {
+        "id": "ea33c5c7-7f8d-4733-825f-61323036e39d",
+        "userId": "user_2",
+        "date": "2025-08-05",
+        "description": "Rule state.",
+        "amount": 1348,
+        "type": "Credit",
+        "category": "Others",
+        "balance": 62469
+    },
+    {
+        "id": "74d66452-6d92-485e-81b1-321db62f110d",
+        "userId": "user_2",
+        "date": "2025-07-27",
+        "description": "Important point major.",
+        "amount": 3574,
+        "type": "Credit",
+        "category": "Travel",
+        "balance": 66043
+    },
+    {
+        "id": "eb44e683-4a23-4722-9879-680e944a5dcf",
+        "userId": "user_2",
+        "date": "2025-08-26",
+        "description": "Return writer perhaps either position.",
+        "amount": 4072,
+        "type": "Debit",
+        "category": "Salary",
+        "balance": 61971
+    },
+    {
+        "id": "1922dd51-6fa9-4e92-8c4b-41bc68e51fd9",
+        "userId": "user_2",
+        "date": "2025-08-12",
+        "description": "Six send someone well quite.",
+        "amount": 4256,
+        "type": "Credit",
+        "category": "Travel",
+        "balance": 66227
+    },
+    {
+        "id": "4b335fa3-73d3-4574-82e7-eb7c53e4590d",
+        "userId": "user_2",
+        "date": "2025-08-03",
+        "description": "Case director really through.",
+        "amount": 4040,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 62187
+    },
+    {
+        "id": "5f2e2860-bdae-433c-b7d5-099c716efc56",
+        "userId": "user_2",
+        "date": "2025-07-17",
+        "description": "Claim continue wonder tend himself.",
+        "amount": 1691,
+        "type": "Credit",
+        "category": "Travel",
+        "balance": 63878
+    },
+    {
+        "id": "55537135-3d3f-45c3-bed9-6c551460e203",
+        "userId": "user_2",
+        "date": "2025-07-31",
+        "description": "Everybody key something raise arm.",
+        "amount": 1418,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 62460
+    },
+    {
+        "id": "856a9c3a-e5c1-4a4c-b17a-ac9b104bbd29",
+        "userId": "user_2",
+        "date": "2025-08-12",
+        "description": "Final travel total.",
+        "amount": 4060,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 58400
+    },
+    {
+        "id": "6b9fa690-bad7-4d17-a84c-a6a3a8ad52ac",
+        "userId": "user_2",
+        "date": "2025-09-10",
+        "description": "Candidate far federal.",
+        "amount": 4361,
+        "type": "Credit",
+        "category": "Others",
+        "balance": 62761
+    },
+    {
+        "id": "4f1c537f-f75b-4f38-bb45-22be4e94ea7f",
+        "userId": "user_2",
+        "date": "2025-07-07",
+        "description": "Seven his forget far.",
+        "amount": 1568,
+        "type": "Credit",
+        "category": "Rent",
+        "balance": 64329
+    },
+    {
+        "id": "1659ae2a-1328-4c7a-8644-edefc9c33a78",
+        "userId": "user_2",
+        "date": "2025-08-19",
+        "description": "Seven music.",
+        "amount": 4392,
+        "type": "Credit",
+        "category": "Food",
+        "balance": 68721
+    },
+    {
+        "id": "18d89788-33b2-4d8d-9569-a95126f891af",
+        "userId": "user_2",
+        "date": "2025-09-29",
+        "description": "Successful stop image morning capital.",
+        "amount": 241,
+        "type": "Debit",
+        "category": "Salary",
+        "balance": 68480
+    },
+    {
+        "id": "70177be3-944f-4900-9760-1244ec3bebeb",
+        "userId": "user_2",
+        "date": "2025-08-21",
+        "description": "Away billion rather.",
+        "amount": 3102,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 65378
+    },
+    {
+        "id": "c6bed4a7-835f-431d-9148-7901c9b13559",
+        "userId": "user_2",
+        "date": "2025-09-24",
+        "description": "Believe worry program thank it.",
+        "amount": 3505,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 61873
+    },
+    {
+        "id": "c7eeea46-922e-4c5d-b22a-232abdbe68c3",
+        "userId": "user_2",
+        "date": "2025-10-03",
+        "description": "Wonder contain help save perhaps.",
+        "amount": 3348,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 65221
+    },
+    {
+        "id": "0b0771cf-c803-4146-8f2c-5ea54e03d309",
+        "userId": "user_2",
+        "date": "2025-07-13",
+        "description": "Well the according.",
+        "amount": 2457,
+        "type": "Credit",
+        "category": "Entertainment",
+        "balance": 67678
+    },
+    {
+        "id": "9384473d-87c8-4ec4-93bf-ff57d82e996a",
+        "userId": "user_2",
+        "date": "2025-07-19",
+        "description": "Account sing civil.",
+        "amount": 706,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 66972
+    },
+    {
+        "id": "e8cd2364-d6e4-4519-b4fd-178a80b8576d",
+        "userId": "user_2",
+        "date": "2025-08-09",
+        "description": "Team suffer.",
+        "amount": 807,
+        "type": "Credit",
+        "category": "Utilities",
+        "balance": 67779
+    },
+    {
+        "id": "b3ee9983-5ebb-4284-b132-f1ffad33a6fe",
+        "userId": "user_2",
+        "date": "2025-10-02",
+        "description": "Morning them song.",
+        "amount": 2650,
+        "type": "Credit",
+        "category": "Utilities",
+        "balance": 70429
+    },
+    {
+        "id": "d0c37295-f118-4898-a5d6-82f38b25bfdc",
+        "userId": "user_2",
+        "date": "2025-08-26",
+        "description": "Travel special dark third.",
+        "amount": 1990,
+        "type": "Credit",
+        "category": "Others",
+        "balance": 72419
+    },
+    {
+        "id": "35432958-2b22-44de-b838-b7fa06e272cd",
+        "userId": "user_2",
+        "date": "2025-07-08",
+        "description": "Field positive follow become world.",
+        "amount": 1489,
+        "type": "Credit",
+        "category": "Travel",
+        "balance": 73908
+    },
+    {
+        "id": "15e42632-7676-4822-b3c7-ae04136affeb",
+        "userId": "user_2",
+        "date": "2025-08-16",
+        "description": "Operation approach simply.",
+        "amount": 4609,
+        "type": "Debit",
+        "category": "Salary",
+        "balance": 69299
+    },
+    {
+        "id": "b5eba5b9-8792-4875-a37f-32a01b644f70",
+        "userId": "user_2",
+        "date": "2025-07-18",
+        "description": "Bill main point home.",
+        "amount": 3223,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 66076
+    },
+    {
+        "id": "63c6ca52-a58a-4312-b193-486db19a05a3",
+        "userId": "user_2",
+        "date": "2025-07-11",
+        "description": "Discover tax agent strong.",
+        "amount": 3153,
+        "type": "Credit",
+        "category": "Others",
+        "balance": 69229
+    },
+    {
+        "id": "2d42a927-8327-4cba-a687-b325bdcd879d",
+        "userId": "user_2",
+        "date": "2025-08-19",
+        "description": "Fund natural middle walk happen.",
+        "amount": 4359,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 64870
+    },
+    {
+        "id": "27125ab3-c846-4063-9f88-aebb0facee71",
+        "userId": "user_2",
+        "date": "2025-09-05",
+        "description": "Pattern scientist way ahead.",
+        "amount": 2988,
+        "type": "Credit",
+        "category": "Rent",
+        "balance": 67858
+    },
+    {
+        "id": "577d0b59-ff66-4046-84a7-fabe1b0341b9",
+        "userId": "user_2",
+        "date": "2025-07-24",
+        "description": "Close develop clear certainly.",
+        "amount": 4666,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 72524
+    },
+    {
+        "id": "cef5bf19-acdc-4b8d-94e5-df2933aaeece",
+        "userId": "user_2",
+        "date": "2025-09-29",
+        "description": "Key interesting high.",
+        "amount": 1775,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 70749
+    },
+    {
+        "id": "0488b7c4-6612-4419-a72e-12067b63710d",
+        "userId": "user_2",
+        "date": "2025-07-10",
+        "description": "Little case government.",
+        "amount": 2839,
+        "type": "Credit",
+        "category": "Food",
+        "balance": 73588
+    },
+    {
+        "id": "4af9644a-d348-4557-8941-5be612fdb3db",
+        "userId": "user_2",
+        "date": "2025-09-04",
+        "description": "Against their.",
+        "amount": 2769,
+        "type": "Credit",
+        "category": "Others",
+        "balance": 76357
+    },
+    {
+        "id": "1b665b5e-63ee-4fcd-909d-11f21a120fbd",
+        "userId": "user_2",
+        "date": "2025-08-23",
+        "description": "Everything ability.",
+        "amount": 598,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 75759
+    },
+    {
+        "id": "511aeaff-6c21-4aee-b382-6ba8c12174b2",
+        "userId": "user_2",
+        "date": "2025-08-02",
+        "description": "Four test nothing city.",
+        "amount": 792,
+        "type": "Credit",
+        "category": "Others",
+        "balance": 76551
+    },
+    {
+        "id": "14fcd71b-4d72-4b4f-8ca0-509c84774df2",
+        "userId": "user_2",
+        "date": "2025-08-25",
+        "description": "Book member sport long.",
+        "amount": 1989,
+        "type": "Credit",
+        "category": "Utilities",
+        "balance": 78540
+    },
+    {
+        "id": "9d071919-55a8-4574-9049-714fd1de2753",
+        "userId": "user_2",
+        "date": "2025-09-13",
+        "description": "Sea significant wall.",
+        "amount": 2013,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 76527
+    },
+    {
+        "id": "66c14091-8486-42e4-9fec-e5ee4a15029f",
+        "userId": "user_2",
+        "date": "2025-08-26",
+        "description": "Someone tonight film.",
+        "amount": 4499,
+        "type": "Credit",
+        "category": "Entertainment",
+        "balance": 81026
+    },
+    {
+        "id": "bb1de8b9-4d5c-4e0f-8b4a-efcde1e98379",
+        "userId": "user_2",
+        "date": "2025-08-08",
+        "description": "Some expert officer.",
+        "amount": 1930,
+        "type": "Credit",
+        "category": "Utilities",
+        "balance": 82956
+    },
+    {
+        "id": "4e28d452-29ac-4fb6-b4ed-58ced982a083",
+        "userId": "user_2",
+        "date": "2025-07-25",
+        "description": "Message way administration focus.",
+        "amount": 2371,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 80585
+    },
+    {
+        "id": "4afa6db1-61d1-4e33-bbec-2d9ade3e8614",
+        "userId": "user_2",
+        "date": "2025-08-28",
+        "description": "Produce cover.",
+        "amount": 3858,
+        "type": "Credit",
+        "category": "Entertainment",
+        "balance": 84443
+    },
+    {
+        "id": "ae181d09-f5da-4ec5-9f08-4ece6a126698",
+        "userId": "user_2",
+        "date": "2025-08-06",
+        "description": "Ok try firm blood tell.",
+        "amount": 1379,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 83064
+    },
+    {
+        "id": "f0d4edaa-e9b7-48ea-8104-d12f9e6eaa8d",
+        "userId": "user_2",
+        "date": "2025-07-16",
+        "description": "Here agent.",
+        "amount": 4265,
+        "type": "Credit",
+        "category": "Others",
+        "balance": 87329
+    },
+    {
+        "id": "8c5003bb-fec2-4beb-8e90-1025a0c4c5ff",
+        "userId": "user_2",
+        "date": "2025-07-22",
+        "description": "Avoid project.",
+        "amount": 4318,
+        "type": "Credit",
+        "category": "Shopping",
+        "balance": 91647
+    },
+    {
+        "id": "197ec90f-7e38-43cb-9e6b-0dc9c5db010f",
+        "userId": "user_2",
+        "date": "2025-07-26",
+        "description": "Safe education over affect than.",
+        "amount": 433,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 91214
+    },
+    {
+        "id": "9452396c-752b-4ced-ae25-26250aed47d9",
+        "userId": "user_2",
+        "date": "2025-08-21",
+        "description": "Change explain add story available.",
+        "amount": 4104,
+        "type": "Credit",
+        "category": "Entertainment",
+        "balance": 95318
+    },
+    {
+        "id": "a4d70086-b24c-4e30-be7d-02f5027d6fcf",
+        "userId": "user_2",
+        "date": "2025-09-13",
+        "description": "Wear worry plant management.",
+        "amount": 4420,
+        "type": "Credit",
+        "category": "Shopping",
+        "balance": 99738
+    },
+    {
+        "id": "0153e1e1-7b15-46be-9584-965a312a9215",
+        "userId": "user_2",
+        "date": "2025-08-02",
+        "description": "End forward produce.",
+        "amount": 3174,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 96564
+    },
+    {
+        "id": "e94dea29-ad2e-4ab1-84f7-e85ae1f3068c",
+        "userId": "user_2",
+        "date": "2025-07-11",
+        "description": "You wonder usually.",
+        "amount": 709,
+        "type": "Credit",
+        "category": "Utilities",
+        "balance": 97273
+    },
+    {
+        "id": "b61ff54a-2c94-4dd4-ab3e-6e462ab3fec8",
+        "userId": "user_2",
+        "date": "2025-07-30",
+        "description": "Possible though financial keep add.",
+        "amount": 1893,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 95380
+    },
+    {
+        "id": "5d303561-1007-49a6-8b13-c5a949daee78",
+        "userId": "user_2",
+        "date": "2025-09-04",
+        "description": "Building man nature involve.",
+        "amount": 2811,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 92569
+    },
+    {
+        "id": "39937be5-d641-4d66-b4a3-a6ddf2cae78b",
+        "userId": "user_2",
+        "date": "2025-08-09",
+        "description": "Save feel seem increase.",
+        "amount": 210,
+        "type": "Credit",
+        "category": "Utilities",
+        "balance": 92779
+    },
+    {
+        "id": "cb69fc8a-d52b-437b-9679-92f944641b15",
+        "userId": "user_2",
+        "date": "2025-09-15",
+        "description": "Sound rich husband nice edge.",
+        "amount": 4230,
+        "type": "Credit",
+        "category": "Shopping",
+        "balance": 97009
+    },
+    {
+        "id": "14cbd6a9-968b-4852-8e01-bbf3fbef451c",
+        "userId": "user_2",
+        "date": "2025-07-30",
+        "description": "Evidence fly question them.",
+        "amount": 1759,
+        "type": "Credit",
+        "category": "Food",
+        "balance": 98768
+    },
+    {
+        "id": "532da057-ebc3-4cfc-80f6-0f0d56072c29",
+        "userId": "user_2",
+        "date": "2025-08-06",
+        "description": "Partner stock culture brother.",
+        "amount": 4009,
+        "type": "Credit",
+        "category": "Shopping",
+        "balance": 102777
+    },
+    {
+        "id": "776fced9-9ba4-469c-a136-900cf2d06ec5",
+        "userId": "user_2",
+        "date": "2025-07-24",
+        "description": "Certainly media put perform will.",
+        "amount": 4449,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 98328
+    },
+    {
+        "id": "88fc3fef-6032-4cf5-9415-5398cc8c73c7",
+        "userId": "user_2",
+        "date": "2025-07-13",
+        "description": "Two rest benefit.",
+        "amount": 913,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 97415
+    },
+    {
+        "id": "ccf35752-fc32-4ca6-bfbb-f16a0a96999a",
+        "userId": "user_2",
+        "date": "2025-10-02",
+        "description": "Say around we.",
+        "amount": 1914,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 95501
+    },
+    {
+        "id": "69b6cb98-3838-48e7-801c-a943be00b048",
+        "userId": "user_2",
+        "date": "2025-08-07",
+        "description": "Institution within out.",
+        "amount": 177,
+        "type": "Credit",
+        "category": "Shopping",
+        "balance": 95678
+    },
+    {
+        "id": "8efb1c80-cd6b-47e0-ada3-40024fd8d5f7",
+        "userId": "user_2",
+        "date": "2025-08-21",
+        "description": "Tree view coach.",
+        "amount": 1929,
+        "type": "Credit",
+        "category": "Utilities",
+        "balance": 97607
+    },
+    {
+        "id": "ca237096-9ccb-4a9f-8cd5-0e816e8ae1a0",
+        "userId": "user_2",
+        "date": "2025-09-07",
+        "description": "Me compare heart poor else.",
+        "amount": 880,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 96727
+    },
+    {
+        "id": "066297a2-4277-4314-88a3-d3bbbe901c44",
+        "userId": "user_2",
+        "date": "2025-08-23",
+        "description": "Statement man act.",
+        "amount": 4476,
+        "type": "Credit",
+        "category": "Food",
+        "balance": 101203
+    },
+    {
+        "id": "7834be9c-5d8d-4ecb-9d62-d76e2c4ca24d",
+        "userId": "user_2",
+        "date": "2025-08-05",
+        "description": "Wear cultural.",
+        "amount": 3953,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 97250
+    },
+    {
+        "id": "c550eabe-2291-4f3f-a4b2-df35a2938ffb",
+        "userId": "user_2",
+        "date": "2025-08-18",
+        "description": "Participant four day investment.",
+        "amount": 1451,
+        "type": "Credit",
+        "category": "Travel",
+        "balance": 98701
+    },
+    {
+        "id": "f3305fea-815e-4715-82df-a136aeec0f02",
+        "userId": "user_2",
+        "date": "2025-08-14",
+        "description": "Mission soon campaign go low.",
+        "amount": 2691,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 101392
+    },
+    {
+        "id": "b0ce688e-cd2d-4c02-933a-b251457b9e49",
+        "userId": "user_2",
+        "date": "2025-09-16",
+        "description": "Citizen here despite speech everyone.",
+        "amount": 3853,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 97539
+    },
+    {
+        "id": "b7ebd724-9a74-42b8-9fc9-1c25a27deaf7",
+        "userId": "user_2",
+        "date": "2025-08-03",
+        "description": "Both two.",
+        "amount": 2446,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 99985
+    },
+    {
+        "id": "0a26ada5-036f-43a7-b3b7-df2e7d5103e8",
+        "userId": "user_2",
+        "date": "2025-08-15",
+        "description": "Create fear race.",
+        "amount": 1737,
+        "type": "Credit",
+        "category": "Shopping",
+        "balance": 101722
+    },
+    {
+        "id": "03678c57-b708-47ce-98b7-8a188b1fe644",
+        "userId": "user_2",
+        "date": "2025-09-01",
+        "description": "Memory college.",
+        "amount": 3916,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 97806
+    },
+    {
+        "id": "58cadecc-cf99-40db-a58c-f47af000943e",
+        "userId": "user_2",
+        "date": "2025-08-02",
+        "description": "Natural clear guy ask camera.",
+        "amount": 3987,
+        "type": "Credit",
+        "category": "Entertainment",
+        "balance": 101793
+    },
+    {
+        "id": "31e62700-5149-499a-a666-1f911e78288f",
+        "userId": "user_2",
+        "date": "2025-07-13",
+        "description": "Benefit suggest fast.",
+        "amount": 4648,
+        "type": "Credit",
+        "category": "Shopping",
+        "balance": 106441
+    },
+    {
+        "id": "b77317a1-669a-4f40-8573-cb4358b8de19",
+        "userId": "user_2",
+        "date": "2025-09-11",
+        "description": "Health feeling final agency expect.",
+        "amount": 2868,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 103573
+    },
+    {
+        "id": "917845b1-3c73-4dbe-9003-9161219bbad9",
+        "userId": "user_2",
+        "date": "2025-07-28",
+        "description": "Professional ready song adult.",
+        "amount": 234,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 103339
+    },
+    {
+        "id": "faa274aa-5a46-41bd-80f5-e5c0b16d6033",
+        "userId": "user_2",
+        "date": "2025-10-02",
+        "description": "Tough poor.",
+        "amount": 1788,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 101551
+    },
+    {
+        "id": "9c64bc0b-b834-42fb-ac5c-57e7a52ca7c3",
+        "userId": "user_2",
+        "date": "2025-08-16",
+        "description": "Which who.",
+        "amount": 2350,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 99201
+    },
+    {
+        "id": "a8b3c134-1db0-4b77-ab52-9b3ee2c2d314",
+        "userId": "user_2",
+        "date": "2025-07-10",
+        "description": "Since necessary purpose.",
+        "amount": 1195,
+        "type": "Credit",
+        "category": "Entertainment",
+        "balance": 100396
+    },
+    {
+        "id": "f9aa0de5-81bb-47d3-a0c1-fc50d59f9ef6",
+        "userId": "user_3",
+        "date": "2025-08-16",
+        "description": "Former environmental return.",
+        "amount": 509,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 37213
+    },
+    {
+        "id": "84b77240-059f-424f-8458-d59735fb3589",
+        "userId": "user_3",
+        "date": "2025-07-26",
+        "description": "Despite picture collection.",
+        "amount": 500,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 36713
+    },
+    {
+        "id": "b4c33c8a-de44-4233-9ab8-2807e3458962",
+        "userId": "user_3",
+        "date": "2025-07-25",
+        "description": "Music wrong medical oil.",
+        "amount": 2708,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 34005
+    },
+    {
+        "id": "736d194f-5378-4286-b4ed-4df747d89239",
+        "userId": "user_3",
+        "date": "2025-07-14",
+        "description": "Loss treatment finish.",
+        "amount": 3685,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 30320
+    },
+    {
+        "id": "0f5d3489-e040-4261-9a1b-91965f63fc71",
+        "userId": "user_3",
+        "date": "2025-09-26",
+        "description": "Ask Congress article.",
+        "amount": 4183,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 26137
+    },
+    {
+        "id": "6ea607ff-5c39-4fb0-9fcc-e9ff6fd431e1",
+        "userId": "user_3",
+        "date": "2025-07-25",
+        "description": "Must direction great.",
+        "amount": 4452,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 30589
+    },
+    {
+        "id": "d7b55434-69f9-459c-b234-75cd91eb3a42",
+        "userId": "user_3",
+        "date": "2025-07-28",
+        "description": "Series race imagine color.",
+        "amount": 315,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 30274
+    },
+    {
+        "id": "106eeb84-dbeb-4d6b-8ed4-bac7387abd25",
+        "userId": "user_3",
+        "date": "2025-07-26",
+        "description": "Class memory marriage.",
+        "amount": 2878,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 27396
+    },
+    {
+        "id": "f4d0d8b8-28bc-4c0c-bdff-4e8b16e7219f",
+        "userId": "user_3",
+        "date": "2025-07-24",
+        "description": "Nothing view her them specific.",
+        "amount": 1308,
+        "type": "Credit",
+        "category": "Shopping",
+        "balance": 28704
+    },
+    {
+        "id": "b5d993d4-487a-4a30-8e90-8a0ef6fc7c74",
+        "userId": "user_3",
+        "date": "2025-09-02",
+        "description": "Really create amount for impact.",
+        "amount": 3752,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 24952
+    },
+    {
+        "id": "0f005b7f-4b98-4808-8822-df78bfd1c05f",
+        "userId": "user_3",
+        "date": "2025-09-13",
+        "description": "Amount develop oil.",
+        "amount": 3347,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 21605
+    },
+    {
+        "id": "e36a856a-6a04-4398-98be-00ea590bb519",
+        "userId": "user_3",
+        "date": "2025-08-30",
+        "description": "Heart power recently.",
+        "amount": 1743,
+        "type": "Credit",
+        "category": "Utilities",
+        "balance": 23348
+    },
+    {
+        "id": "07f18010-0e81-4cc3-9f89-f02b553933d5",
+        "userId": "user_3",
+        "date": "2025-08-14",
+        "description": "A for hand.",
+        "amount": 1175,
+        "type": "Credit",
+        "category": "Entertainment",
+        "balance": 24523
+    },
+    {
+        "id": "c6f25670-05c3-454f-997a-1664769af0b9",
+        "userId": "user_3",
+        "date": "2025-07-08",
+        "description": "Draw school.",
+        "amount": 4330,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 28853
+    },
+    {
+        "id": "a68bcd21-2ed8-4772-8ccf-34673ca1cc55",
+        "userId": "user_3",
+        "date": "2025-09-26",
+        "description": "Interview direction exactly age.",
+        "amount": 1144,
+        "type": "Credit",
+        "category": "Utilities",
+        "balance": 29997
+    },
+    {
+        "id": "113ae747-e187-4ad8-a1bf-ee8e2ba0e12c",
+        "userId": "user_3",
+        "date": "2025-10-02",
+        "description": "Idea among friend water country.",
+        "amount": 235,
+        "type": "Credit",
+        "category": "Rent",
+        "balance": 30232
+    },
+    {
+        "id": "ea3403da-c829-4e68-853a-9c3adc9baa95",
+        "userId": "user_3",
+        "date": "2025-08-04",
+        "description": "Themselves truth blood finish happy.",
+        "amount": 1448,
+        "type": "Credit",
+        "category": "Others",
+        "balance": 31680
+    },
+    {
+        "id": "9f1ade57-21db-44f0-8026-25c8bb0d668a",
+        "userId": "user_3",
+        "date": "2025-08-15",
+        "description": "Drug everything author eight.",
+        "amount": 3462,
+        "type": "Credit",
+        "category": "Utilities",
+        "balance": 35142
+    },
+    {
+        "id": "a3e111de-a128-42c6-a28a-54bfca30b639",
+        "userId": "user_3",
+        "date": "2025-08-29",
+        "description": "Discover our.",
+        "amount": 3879,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 31263
+    },
+    {
+        "id": "93def635-d0f2-4139-b073-b6d0a26bab94",
+        "userId": "user_3",
+        "date": "2025-09-06",
+        "description": "Let similar since pressure.",
+        "amount": 212,
+        "type": "Credit",
+        "category": "Rent",
+        "balance": 31475
+    },
+    {
+        "id": "b73eb47b-aadd-474a-960a-af3f154537c5",
+        "userId": "user_3",
+        "date": "2025-07-20",
+        "description": "Quality pass there live on.",
+        "amount": 847,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 30628
+    },
+    {
+        "id": "5c8aeb8e-58f0-4a7b-a6c7-4f66bd475aad",
+        "userId": "user_3",
+        "date": "2025-08-25",
+        "description": "Old include generation year.",
+        "amount": 4864,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 25764
+    },
+    {
+        "id": "64e07dd7-4ce7-41a9-ac74-ebe6e7ead58a",
+        "userId": "user_3",
+        "date": "2025-09-13",
+        "description": "Enjoy sit cause federal others.",
+        "amount": 2864,
+        "type": "Credit",
+        "category": "Entertainment",
+        "balance": 28628
+    },
+    {
+        "id": "d999d78d-5f75-4220-b1a3-506cf5fffa31",
+        "userId": "user_3",
+        "date": "2025-07-12",
+        "description": "Popular industry leg.",
+        "amount": 2702,
+        "type": "Debit",
+        "category": "Salary",
+        "balance": 25926
+    },
+    {
+        "id": "86bf7590-c335-46fc-98cd-669d0fffb522",
+        "userId": "user_3",
+        "date": "2025-09-12",
+        "description": "Data leg physical bill decision.",
+        "amount": 3705,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 22221
+    },
+    {
+        "id": "558f790f-8b00-4dd6-82a1-f4f9648a0339",
+        "userId": "user_3",
+        "date": "2025-07-24",
+        "description": "Expect popular media firm.",
+        "amount": 2789,
+        "type": "Credit",
+        "category": "Shopping",
+        "balance": 25010
+    },
+    {
+        "id": "d01760a6-5876-4dbf-acfd-7d04a5c069f4",
+        "userId": "user_3",
+        "date": "2025-09-12",
+        "description": "Tonight world.",
+        "amount": 4056,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 20954
+    },
+    {
+        "id": "cce101e7-565c-44c7-9a04-6a5f786bfc4f",
+        "userId": "user_3",
+        "date": "2025-08-29",
+        "description": "At they sea where everybody.",
+        "amount": 4157,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 16797
+    },
+    {
+        "id": "7ddb080e-741e-4cc4-9487-b6b47a6b8c61",
+        "userId": "user_3",
+        "date": "2025-07-29",
+        "description": "Interest time person Congress firm.",
+        "amount": 2286,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 14511
+    },
+    {
+        "id": "e437176b-5591-4ccb-a939-c858dab74a25",
+        "userId": "user_3",
+        "date": "2025-08-26",
+        "description": "Fire such put finally cover.",
+        "amount": 3615,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 10896
+    },
+    {
+        "id": "c24058c0-00a7-4dfa-a3b4-58d757887198",
+        "userId": "user_3",
+        "date": "2025-08-12",
+        "description": "Almost force great develop occur.",
+        "amount": 2438,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 8458
+    },
+    {
+        "id": "38547741-d366-4eae-9a6d-639fba131ca8",
+        "userId": "user_3",
+        "date": "2025-09-21",
+        "description": "Street western student.",
+        "amount": 4914,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 3544
+    },
+    {
+        "id": "e4f911c0-8361-4a67-b13c-5ec049409f58",
+        "userId": "user_3",
+        "date": "2025-07-31",
+        "description": "Positive sort minute eight.",
+        "amount": 4858,
+        "type": "Credit",
+        "category": "Others",
+        "balance": 8402
+    },
+    {
+        "id": "f7877774-7160-4d38-9599-62f779774541",
+        "userId": "user_3",
+        "date": "2025-09-26",
+        "description": "Add social early.",
+        "amount": 732,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 7670
+    },
+    {
+        "id": "d05bcc56-c36f-4df4-b085-5a7128eafd61",
+        "userId": "user_3",
+        "date": "2025-08-21",
+        "description": "Author bag room wrong.",
+        "amount": 1618,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 6052
+    },
+    {
+        "id": "2578465b-6035-42ce-a002-864a3b42f65b",
+        "userId": "user_3",
+        "date": "2025-07-29",
+        "description": "Front where share herself something.",
+        "amount": 3455,
+        "type": "Credit",
+        "category": "Shopping",
+        "balance": 9507
+    },
+    {
+        "id": "96713a67-427d-4f5b-b8bd-e22a126f7e31",
+        "userId": "user_3",
+        "date": "2025-08-07",
+        "description": "According gas.",
+        "amount": 1961,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 7546
+    },
+    {
+        "id": "8cb0b272-2494-4370-9ba3-7f9e8c37703a",
+        "userId": "user_3",
+        "date": "2025-09-15",
+        "description": "Forward dark serve tough hotel.",
+        "amount": 4871,
+        "type": "Credit",
+        "category": "Travel",
+        "balance": 12417
+    },
+    {
+        "id": "70f1d4fa-981b-416c-baf4-20a9f7b29a5a",
+        "userId": "user_3",
+        "date": "2025-09-19",
+        "description": "Worry control sort.",
+        "amount": 716,
+        "type": "Credit",
+        "category": "Others",
+        "balance": 13133
+    },
+    {
+        "id": "d266977c-8ec5-4b8d-9745-4ab50d34d24d",
+        "userId": "user_3",
+        "date": "2025-08-18",
+        "description": "Onto name different member.",
+        "amount": 344,
+        "type": "Credit",
+        "category": "Utilities",
+        "balance": 13477
+    },
+    {
+        "id": "bc61e309-cfe9-4e6d-b267-cb92e493b693",
+        "userId": "user_3",
+        "date": "2025-07-20",
+        "description": "Give what.",
+        "amount": 4851,
+        "type": "Debit",
+        "category": "Salary",
+        "balance": 8626
+    },
+    {
+        "id": "3de2d415-a7d1-49a7-a3f4-f463aff00eb9",
+        "userId": "user_3",
+        "date": "2025-07-20",
+        "description": "Red industry.",
+        "amount": 4169,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 4457
+    },
+    {
+        "id": "3bb00386-b02c-4c6b-b5de-a49e1df53bdd",
+        "userId": "user_3",
+        "date": "2025-07-07",
+        "description": "Marriage such share business.",
+        "amount": 4160,
+        "type": "Debit",
+        "category": "Salary",
+        "balance": 297
+    },
+    {
+        "id": "711a238d-ac7a-4e9b-8928-145ee46e49ac",
+        "userId": "user_3",
+        "date": "2025-08-16",
+        "description": "Job use once always rate.",
+        "amount": 584,
+        "type": "Debit",
+        "category": "Food",
+        "balance": -287
+    },
+    {
+        "id": "0c91c0c7-9a7d-4051-820a-c995fe48f870",
+        "userId": "user_3",
+        "date": "2025-09-08",
+        "description": "Nor same.",
+        "amount": 820,
+        "type": "Credit",
+        "category": "Entertainment",
+        "balance": 533
+    },
+    {
+        "id": "7d3eb09b-dfcd-4a2a-9697-2edf7fe02a70",
+        "userId": "user_3",
+        "date": "2025-09-19",
+        "description": "Cost street.",
+        "amount": 2414,
+        "type": "Credit",
+        "category": "Travel",
+        "balance": 2947
+    },
+    {
+        "id": "b394b7e2-9045-429c-9aad-dfc3c6477ba4",
+        "userId": "user_3",
+        "date": "2025-08-25",
+        "description": "Physical board several class.",
+        "amount": 1659,
+        "type": "Credit",
+        "category": "Entertainment",
+        "balance": 4606
+    },
+    {
+        "id": "75bc656b-7998-4938-acde-d1c903c27c9d",
+        "userId": "user_3",
+        "date": "2025-09-01",
+        "description": "Red buy truth race.",
+        "amount": 4858,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": -252
+    },
+    {
+        "id": "7ce1e6e9-d4c8-4e96-9917-b6df46ba7883",
+        "userId": "user_3",
+        "date": "2025-09-11",
+        "description": "Authority card technology animal.",
+        "amount": 3194,
+        "type": "Credit",
+        "category": "Entertainment",
+        "balance": 2942
+    },
+    {
+        "id": "974409cb-1222-481a-80fd-91c5565da58a",
+        "userId": "user_3",
+        "date": "2025-08-01",
+        "description": "Assume whatever list.",
+        "amount": 3715,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": -773
+    },
+    {
+        "id": "29184c02-aa74-4b2d-b5c8-c2eea0280fd0",
+        "userId": "user_3",
+        "date": "2025-08-24",
+        "description": "Training best.",
+        "amount": 3651,
+        "type": "Credit",
+        "category": "Food",
+        "balance": 2878
+    },
+    {
+        "id": "4c2ebe85-40d2-42ca-874b-8f607fef47e9",
+        "userId": "user_3",
+        "date": "2025-07-17",
+        "description": "Image support.",
+        "amount": 4934,
+        "type": "Debit",
+        "category": "Salary",
+        "balance": -2056
+    },
+    {
+        "id": "1656f06d-b785-4366-aab2-0714a50f70b6",
+        "userId": "user_3",
+        "date": "2025-08-16",
+        "description": "Actually add resource responsibility.",
+        "amount": 4787,
+        "type": "Credit",
+        "category": "Entertainment",
+        "balance": 2731
+    },
+    {
+        "id": "e448dcd0-2186-4b63-a4ec-d5971ee58679",
+        "userId": "user_3",
+        "date": "2025-09-19",
+        "description": "Arrive order professional degree.",
+        "amount": 3767,
+        "type": "Debit",
+        "category": "Others",
+        "balance": -1036
+    },
+    {
+        "id": "cccf6b61-6343-4b00-9de6-a97775ac60d4",
+        "userId": "user_3",
+        "date": "2025-08-14",
+        "description": "They song.",
+        "amount": 4799,
+        "type": "Credit",
+        "category": "Others",
+        "balance": 3763
+    },
+    {
+        "id": "1e4c9182-e0b2-42c4-829d-c3abdc2c46e1",
+        "userId": "user_3",
+        "date": "2025-10-02",
+        "description": "Begin sing story decide cover.",
+        "amount": 475,
+        "type": "Credit",
+        "category": "Shopping",
+        "balance": 4238
+    },
+    {
+        "id": "ae69b3da-b31e-4112-b795-b4c9bba997ee",
+        "userId": "user_3",
+        "date": "2025-09-26",
+        "description": "Picture like trouble yet.",
+        "amount": 1476,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 2762
+    },
+    {
+        "id": "a77f3c1b-7bf8-4f91-acce-d568bdd120d0",
+        "userId": "user_3",
+        "date": "2025-07-22",
+        "description": "If clearly material east school.",
+        "amount": 4014,
+        "type": "Debit",
+        "category": "Food",
+        "balance": -1252
+    },
+    {
+        "id": "f8e8fac1-3a82-44ee-b911-e64aa7f1f186",
+        "userId": "user_3",
+        "date": "2025-09-18",
+        "description": "Dinner apply plant dinner.",
+        "amount": 4088,
+        "type": "Credit",
+        "category": "Entertainment",
+        "balance": 2836
+    },
+    {
+        "id": "b2e2e8ff-4141-49d1-bf72-6ec99589b189",
+        "userId": "user_3",
+        "date": "2025-08-20",
+        "description": "Nearly president within word.",
+        "amount": 2403,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 433
+    },
+    {
+        "id": "68d67381-df89-4ab7-aec7-4aa8bf59e5f2",
+        "userId": "user_3",
+        "date": "2025-07-15",
+        "description": "Authority lead its drive.",
+        "amount": 4369,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 4802
+    },
+    {
+        "id": "8221b945-1006-4709-880f-e9e2cde1aac5",
+        "userId": "user_3",
+        "date": "2025-08-03",
+        "description": "Including letter skin property.",
+        "amount": 4756,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 46
+    },
+    {
+        "id": "03823f02-43ab-49e3-826f-6bd255d2ad34",
+        "userId": "user_3",
+        "date": "2025-09-17",
+        "description": "Get example.",
+        "amount": 3077,
+        "type": "Credit",
+        "category": "Food",
+        "balance": 3123
+    },
+    {
+        "id": "3c0843eb-3ac1-47d5-b6f9-7d41193bc27b",
+        "userId": "user_3",
+        "date": "2025-07-23",
+        "description": "Item campaign energy current window.",
+        "amount": 270,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 3393
+    },
+    {
+        "id": "e9f2aea4-e5c1-4144-ad87-e1860e2bef08",
+        "userId": "user_3",
+        "date": "2025-07-20",
+        "description": "Phone site environment citizen.",
+        "amount": 4326,
+        "type": "Credit",
+        "category": "Travel",
+        "balance": 7719
+    },
+    {
+        "id": "2cf23322-9d97-41b7-8cdd-9d51e81ae131",
+        "userId": "user_3",
+        "date": "2025-08-12",
+        "description": "Find skill somebody.",
+        "amount": 3386,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 4333
+    },
+    {
+        "id": "571d93f7-2fa0-465e-995f-b616eb090664",
+        "userId": "user_3",
+        "date": "2025-08-28",
+        "description": "Change capital role.",
+        "amount": 2627,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 1706
+    },
+    {
+        "id": "d33e86c0-2e5e-481e-ac8a-f2431e151b94",
+        "userId": "user_3",
+        "date": "2025-09-06",
+        "description": "Character military president blue well.",
+        "amount": 1912,
+        "type": "Credit",
+        "category": "Travel",
+        "balance": 3618
+    },
+    {
+        "id": "a578ce33-b186-4b02-a020-13f7ba28c1d6",
+        "userId": "user_3",
+        "date": "2025-09-07",
+        "description": "President serious night those final.",
+        "amount": 4035,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 7653
+    },
+    {
+        "id": "7394f715-06fc-4d05-98ce-34a8694f714d",
+        "userId": "user_3",
+        "date": "2025-09-12",
+        "description": "Store threat hard community health.",
+        "amount": 2883,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 4770
+    },
+    {
+        "id": "cdb64ffb-05a7-40d3-bb3d-e04e74cfa3f4",
+        "userId": "user_3",
+        "date": "2025-08-23",
+        "description": "Let above task democratic heavy.",
+        "amount": 4797,
+        "type": "Credit",
+        "category": "Food",
+        "balance": 9567
+    },
+    {
+        "id": "ba2d9655-df10-4032-9ba4-0b4427adc8fe",
+        "userId": "user_3",
+        "date": "2025-09-30",
+        "description": "Rock prove ground.",
+        "amount": 1132,
+        "type": "Credit",
+        "category": "Shopping",
+        "balance": 10699
+    },
+    {
+        "id": "b4819b71-e6e1-48dd-8baf-7f41da9d5631",
+        "userId": "user_3",
+        "date": "2025-07-17",
+        "description": "And the dream expect.",
+        "amount": 4869,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 5830
+    },
+    {
+        "id": "cd88db4c-efb3-435d-9be4-691f054c2aa3",
+        "userId": "user_3",
+        "date": "2025-07-07",
+        "description": "Me front ability.",
+        "amount": 432,
+        "type": "Debit",
+        "category": "Salary",
+        "balance": 5398
+    },
+    {
+        "id": "3209cff6-0bd0-42b3-ab05-739f414cc91b",
+        "userId": "user_3",
+        "date": "2025-08-22",
+        "description": "Vote help decision.",
+        "amount": 1725,
+        "type": "Credit",
+        "category": "Rent",
+        "balance": 7123
+    },
+    {
+        "id": "e9dec889-7edb-49b4-8f0b-b0c9a84dd43c",
+        "userId": "user_3",
+        "date": "2025-07-24",
+        "description": "Concern local animal.",
+        "amount": 1410,
+        "type": "Debit",
+        "category": "Salary",
+        "balance": 5713
+    },
+    {
+        "id": "f8e88ee0-e708-4027-9fda-9fcf769a6bf0",
+        "userId": "user_3",
+        "date": "2025-08-14",
+        "description": "Civil station agree.",
+        "amount": 2032,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 3681
+    },
+    {
+        "id": "b1648fef-254e-467a-af8f-70448f7b5f6c",
+        "userId": "user_3",
+        "date": "2025-09-08",
+        "description": "Behind parent third.",
+        "amount": 2746,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 935
+    },
+    {
+        "id": "bafa6ad9-172e-4391-849b-232d0a633f40",
+        "userId": "user_3",
+        "date": "2025-10-02",
+        "description": "Decide beat majority wall.",
+        "amount": 4985,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": -4050
+    },
+    {
+        "id": "7f7b8e9e-22d0-4465-9517-c3a43ca40fdf",
+        "userId": "user_3",
+        "date": "2025-07-24",
+        "description": "Book name must might.",
+        "amount": 1660,
+        "type": "Debit",
+        "category": "Food",
+        "balance": -5710
+    },
+    {
+        "id": "2fbabf6f-e64c-4f22-afd4-db9c947e7589",
+        "userId": "user_3",
+        "date": "2025-08-27",
+        "description": "Personal until picture argue head.",
+        "amount": 3865,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": -9575
+    },
+    {
+        "id": "3f606ffd-3ec1-45da-b8fb-eeb455a33baa",
+        "userId": "user_3",
+        "date": "2025-07-29",
+        "description": "Itself week plant claim business.",
+        "amount": 773,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": -10348
+    },
+    {
+        "id": "05dfb407-5a39-4dd5-965e-19f90e7afdf1",
+        "userId": "user_3",
+        "date": "2025-07-22",
+        "description": "Bit final leader.",
+        "amount": 4422,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": -14770
+    },
+    {
+        "id": "c16f16a2-469f-4788-8291-32096da26f52",
+        "userId": "user_3",
+        "date": "2025-07-21",
+        "description": "Candidate standard.",
+        "amount": 3404,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": -18174
+    },
+    {
+        "id": "9230859b-29d6-4d8d-8051-80a0a397bf45",
+        "userId": "user_3",
+        "date": "2025-10-03",
+        "description": "Cover live dog.",
+        "amount": 4276,
+        "type": "Credit",
+        "category": "Utilities",
+        "balance": -13898
+    },
+    {
+        "id": "81de9db4-bd49-48ea-8090-0d2962c420ab",
+        "userId": "user_3",
+        "date": "2025-08-03",
+        "description": "Sometimes charge improve part we.",
+        "amount": 519,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": -14417
+    },
+    {
+        "id": "eab7a7fd-1a67-4adf-b2b9-0831e1f56cbf",
+        "userId": "user_3",
+        "date": "2025-10-01",
+        "description": "Safe buy.",
+        "amount": 250,
+        "type": "Credit",
+        "category": "Others",
+        "balance": -14167
+    },
+    {
+        "id": "b9ac5504-567c-405c-a33b-263970df3ca4",
+        "userId": "user_3",
+        "date": "2025-09-02",
+        "description": "Try for seek.",
+        "amount": 1710,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": -12457
+    },
+    {
+        "id": "1dd0360f-b33b-4f26-a1a4-548a10cd892a",
+        "userId": "user_3",
+        "date": "2025-08-20",
+        "description": "Impact four trouble let body.",
+        "amount": 4084,
+        "type": "Credit",
+        "category": "Shopping",
+        "balance": -8373
+    },
+    {
+        "id": "7593e78d-8f87-4c2c-bc95-7d54c5c8f572",
+        "userId": "user_3",
+        "date": "2025-08-14",
+        "description": "Work daughter feeling police employee.",
+        "amount": 238,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": -8611
+    },
+    {
+        "id": "16ddbc05-c7d3-43e7-88b8-de9dcc2b153b",
+        "userId": "user_3",
+        "date": "2025-07-07",
+        "description": "War century series number long.",
+        "amount": 4291,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": -12902
+    },
+    {
+        "id": "22852ae7-7aff-4c86-9001-17c8774a2aa3",
+        "userId": "user_3",
+        "date": "2025-07-30",
+        "description": "Next goal main.",
+        "amount": 2805,
+        "type": "Credit",
+        "category": "Entertainment",
+        "balance": -10097
+    },
+    {
+        "id": "aca6ff79-0583-4ab8-bc82-a00c68d615b0",
+        "userId": "user_3",
+        "date": "2025-08-25",
+        "description": "No painting low person bed.",
+        "amount": 3244,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": -13341
+    },
+    {
+        "id": "d25303e6-5e09-4bfc-9708-ae8a4f4333b5",
+        "userId": "user_3",
+        "date": "2025-09-18",
+        "description": "It response indicate me drop.",
+        "amount": 1488,
+        "type": "Credit",
+        "category": "Others",
+        "balance": -11853
+    },
+    {
+        "id": "24d01b6d-1eb6-4bc7-b61b-e9387a581798",
+        "userId": "user_3",
+        "date": "2025-08-26",
+        "description": "Company along many.",
+        "amount": 4932,
+        "type": "Credit",
+        "category": "Others",
+        "balance": -6921
+    },
+    {
+        "id": "516ae299-1dba-43b1-b56f-b9f5872f9f76",
+        "userId": "user_3",
+        "date": "2025-10-02",
+        "description": "Fill production note because.",
+        "amount": 944,
+        "type": "Credit",
+        "category": "Travel",
+        "balance": -5977
+    },
+    {
+        "id": "44525e75-8138-4123-95a8-8507ae72d488",
+        "userId": "user_3",
+        "date": "2025-08-13",
+        "description": "Product reduce section.",
+        "amount": 4074,
+        "type": "Credit",
+        "category": "Utilities",
+        "balance": -1903
+    },
+    {
+        "id": "df8e7555-d22d-4da4-8c44-b8765a1c7853",
+        "userId": "user_3",
+        "date": "2025-09-05",
+        "description": "Door black school.",
+        "amount": 1221,
+        "type": "Credit",
+        "category": "Utilities",
+        "balance": -682
+    },
+    {
+        "id": "f94a7127-12bf-45e0-8fea-7946464d3516",
+        "userId": "user_3",
+        "date": "2025-09-29",
+        "description": "Mrs artist high board.",
+        "amount": 2862,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": -3544
+    },
+    {
+        "id": "2d5ba821-5774-4f73-9df0-02c0083f9f72",
+        "userId": "user_3",
+        "date": "2025-07-20",
+        "description": "Major challenge.",
+        "amount": 1292,
+        "type": "Credit",
+        "category": "Entertainment",
+        "balance": -2252
+    },
+    {
+        "id": "9a6303e6-cdfe-4627-ba0c-81f4cc0fd643",
+        "userId": "user_3",
+        "date": "2025-09-28",
+        "description": "Discussion test issue.",
+        "amount": 4216,
+        "type": "Debit",
+        "category": "Salary",
+        "balance": -6468
+    },
+    {
+        "id": "82daf934-c27e-4c59-80ac-32eaee4bcb2f",
+        "userId": "user_3",
+        "date": "2025-09-19",
+        "description": "Drug concern seven animal.",
+        "amount": 1302,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": -7770
+    },
+    {
+        "id": "110db2c6-a2de-45db-b535-2e57d8599654",
+        "userId": "user_3",
+        "date": "2025-09-29",
+        "description": "Focus data whether poor.",
+        "amount": 1896,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": -9666
+    },
+    {
+        "id": "55869ed2-dd3f-4f46-9796-259f960f768f",
+        "userId": "user_3",
+        "date": "2025-09-23",
+        "description": "General character claim hair soon.",
+        "amount": 4014,
+        "type": "Credit",
+        "category": "Entertainment",
+        "balance": -5652
+    },
+    {
+        "id": "81b1821c-445c-4020-9f4f-082992eb3239",
+        "userId": "user_3",
+        "date": "2025-07-29",
+        "description": "Their two religious kind.",
+        "amount": 3391,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": -9043
+    },
+    {
+        "id": "dfba058c-c41a-400b-9f4e-41db70c2a2cd",
+        "userId": "user_3",
+        "date": "2025-09-27",
+        "description": "Church staff positive.",
+        "amount": 2608,
+        "type": "Credit",
+        "category": "Food",
+        "balance": -6435
+    },
+    {
+        "id": "1c951b80-ca16-4e61-b5ea-975e8a62a326",
+        "userId": "user_3",
+        "date": "2025-08-04",
+        "description": "Hope will.",
+        "amount": 3848,
+        "type": "Credit",
+        "category": "Entertainment",
+        "balance": -2587
+    },
+    {
+        "id": "9cc61ebc-e24b-4ffe-a2e8-8d5176dd8db7",
+        "userId": "user_3",
+        "date": "2025-08-10",
+        "description": "Key alone station task.",
+        "amount": 518,
+        "type": "Credit",
+        "category": "Food",
+        "balance": -2069
+    },
+    {
+        "id": "86bd2c5e-ec4c-4f9f-a454-7e941623a2b1",
+        "userId": "user_3",
+        "date": "2025-07-19",
+        "description": "Front mind finally day ability.",
+        "amount": 3360,
+        "type": "Debit",
+        "category": "Salary",
+        "balance": -5429
+    },
+    {
+        "id": "cc0b372b-81dd-4c94-8683-102dab14e773",
+        "userId": "user_3",
+        "date": "2025-08-21",
+        "description": "Million American stay decide page.",
+        "amount": 443,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": -5872
+    },
+    {
+        "id": "e09b7b97-2de2-4e6d-bbc6-a63936ff3094",
+        "userId": "user_3",
+        "date": "2025-09-10",
+        "description": "Story color event.",
+        "amount": 3801,
+        "type": "Credit",
+        "category": "Shopping",
+        "balance": -2071
+    },
+    {
+        "id": "92692a56-4060-4b6d-b6a4-1ad93c3c8f24",
+        "userId": "user_3",
+        "date": "2025-09-16",
+        "description": "Wall anyone lot tree.",
+        "amount": 3829,
+        "type": "Credit",
+        "category": "Entertainment",
+        "balance": 1758
+    },
+    {
+        "id": "6b8886d8-ad77-4661-a2ce-63466e1106ca",
+        "userId": "user_3",
+        "date": "2025-08-12",
+        "description": "With leader Congress admit.",
+        "amount": 1474,
+        "type": "Credit",
+        "category": "Travel",
+        "balance": 3232
+    },
+    {
+        "id": "b1952947-d93a-417c-8496-90342e2c898d",
+        "userId": "user_3",
+        "date": "2025-07-14",
+        "description": "Middle now.",
+        "amount": 4929,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": -1697
+    },
+    {
+        "id": "64c97af4-4582-4d89-a8a5-cf9f9136d491",
+        "userId": "user_3",
+        "date": "2025-07-26",
+        "description": "Second ten commercial ahead trouble.",
+        "amount": 3844,
+        "type": "Credit",
+        "category": "Food",
+        "balance": 2147
+    },
+    {
+        "id": "bcf95a19-380d-4421-9cbb-cb57e378a177",
+        "userId": "user_3",
+        "date": "2025-09-20",
+        "description": "Character standard executive study.",
+        "amount": 2374,
+        "type": "Credit",
+        "category": "Utilities",
+        "balance": 4521
+    },
+    {
+        "id": "2ec66097-4c07-451a-8d30-fac1b4bfdd80",
+        "userId": "user_3",
+        "date": "2025-08-12",
+        "description": "Environmental learn along economic month.",
+        "amount": 1496,
+        "type": "Credit",
+        "category": "Shopping",
+        "balance": 6017
+    },
+    {
+        "id": "6650c133-7229-4442-ba66-0aa3cec8bfcd",
+        "userId": "user_3",
+        "date": "2025-08-23",
+        "description": "Student public.",
+        "amount": 239,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 5778
+    },
+    {
+        "id": "59eaa327-6045-4b89-91a9-5aa1c0f14411",
+        "userId": "user_3",
+        "date": "2025-09-11",
+        "description": "Black charge rise.",
+        "amount": 3185,
+        "type": "Debit",
+        "category": "Salary",
+        "balance": 2593
+    },
+    {
+        "id": "afacf213-345f-4ccc-932a-ca720e90dab9",
+        "userId": "user_3",
+        "date": "2025-09-08",
+        "description": "Beautiful oil role.",
+        "amount": 1635,
+        "type": "Credit",
+        "category": "Utilities",
+        "balance": 4228
+    },
+    {
+        "id": "e6efaf5b-3de3-4aea-9686-32b852b96196",
+        "userId": "user_3",
+        "date": "2025-07-11",
+        "description": "Stop ask drug yourself.",
+        "amount": 3274,
+        "type": "Credit",
+        "category": "Food",
+        "balance": 7502
+    },
+    {
+        "id": "dd847175-d899-4994-9451-5ea1af970e81",
+        "userId": "user_3",
+        "date": "2025-09-17",
+        "description": "Environmental nearly too.",
+        "amount": 3117,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 4385
+    },
+    {
+        "id": "31da4e90-f568-4754-bf4e-1ebedbf7dd9c",
+        "userId": "user_3",
+        "date": "2025-07-07",
+        "description": "Media go project.",
+        "amount": 1022,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 3363
+    },
+    {
+        "id": "307477ee-1b9d-4796-b2a1-327cc390832e",
+        "userId": "user_3",
+        "date": "2025-09-10",
+        "description": "Couple four.",
+        "amount": 3830,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": -467
+    },
+    {
+        "id": "385b4b16-7de8-4e94-8232-607d9d1c5c50",
+        "userId": "user_3",
+        "date": "2025-08-11",
+        "description": "Decade capital.",
+        "amount": 290,
+        "type": "Credit",
+        "category": "Travel",
+        "balance": -177
+    },
+    {
+        "id": "3723505b-8948-4e2c-9066-5517b56d6ca5",
+        "userId": "user_3",
+        "date": "2025-07-15",
+        "description": "Realize son various yeah.",
+        "amount": 2249,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": -2426
+    },
+    {
+        "id": "dcfdbc68-9e24-4d39-9b8e-569cec8a3591",
+        "userId": "user_3",
+        "date": "2025-08-30",
+        "description": "Plant third career president conference.",
+        "amount": 4072,
+        "type": "Credit",
+        "category": "Travel",
+        "balance": 1646
+    },
+    {
+        "id": "af968512-bf6e-4a36-99e2-7da9edb11ca4",
+        "userId": "user_3",
+        "date": "2025-07-16",
+        "description": "One majority.",
+        "amount": 2499,
+        "type": "Credit",
+        "category": "Others",
+        "balance": 4145
+    },
+    {
+        "id": "f1cb3c49-80b4-4740-90fd-4e6eab94ddd8",
+        "userId": "user_3",
+        "date": "2025-09-07",
+        "description": "Main control worker forget.",
+        "amount": 2532,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 1613
+    },
+    {
+        "id": "d1573228-f717-4bfa-af10-11ebd28b5b8d",
+        "userId": "user_3",
+        "date": "2025-09-17",
+        "description": "Great born service would.",
+        "amount": 1169,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 444
+    },
+    {
+        "id": "ef4732d8-d308-4150-886b-7bd4b352b96b",
+        "userId": "user_3",
+        "date": "2025-09-16",
+        "description": "Federal page.",
+        "amount": 1510,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": -1066
+    },
+    {
+        "id": "7cf15162-41df-4fb3-a7d0-49ddf2dd65c1",
+        "userId": "user_3",
+        "date": "2025-09-08",
+        "description": "Relate should law.",
+        "amount": 4574,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": -5640
+    },
+    {
+        "id": "e32df56e-34a7-49a6-a48c-73667763b9ba",
+        "userId": "user_3",
+        "date": "2025-09-22",
+        "description": "Avoid side reality.",
+        "amount": 2037,
+        "type": "Credit",
+        "category": "Others",
+        "balance": -3603
+    },
+    {
+        "id": "87b1a01f-680c-4d2d-91a8-cd6a1c7ee398",
+        "userId": "user_3",
+        "date": "2025-09-14",
+        "description": "Wish deep.",
+        "amount": 1509,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": -5112
+    },
+    {
+        "id": "be4e9154-5200-4705-b424-186f5efed78d",
+        "userId": "user_3",
+        "date": "2025-07-16",
+        "description": "Parent standard about treatment debate.",
+        "amount": 2443,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": -7555
+    },
+    {
+        "id": "25064966-bc96-4988-aec3-3df90127e98a",
+        "userId": "user_3",
+        "date": "2025-09-25",
+        "description": "But white room wonder.",
+        "amount": 1843,
+        "type": "Debit",
+        "category": "Others",
+        "balance": -9398
+    },
+    {
+        "id": "c6edd57b-d1ac-4237-bf46-3390014f18d1",
+        "userId": "user_3",
+        "date": "2025-09-16",
+        "description": "Her doctor tonight enough.",
+        "amount": 438,
+        "type": "Debit",
+        "category": "Food",
+        "balance": -9836
+    },
+    {
+        "id": "10b6fe74-7d27-4406-9b2d-d484546c7a1d",
+        "userId": "user_3",
+        "date": "2025-07-22",
+        "description": "Adult phone where.",
+        "amount": 920,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": -10756
+    },
+    {
+        "id": "a9df533c-f46b-4a3d-beb1-2373be1ef862",
+        "userId": "user_3",
+        "date": "2025-09-13",
+        "description": "Forward body skin.",
+        "amount": 3740,
+        "type": "Debit",
+        "category": "Others",
+        "balance": -14496
+    },
+    {
+        "id": "59036303-113d-4f58-b0ad-3b0d90834dde",
+        "userId": "user_3",
+        "date": "2025-07-28",
+        "description": "Only decision my.",
+        "amount": 4459,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": -18955
+    },
+    {
+        "id": "e1ed7585-e7c2-483c-95aa-0c00c7d9071b",
+        "userId": "user_3",
+        "date": "2025-08-30",
+        "description": "Eye them become.",
+        "amount": 4981,
+        "type": "Credit",
+        "category": "Others",
+        "balance": -13974
+    },
+    {
+        "id": "b72245e3-5d41-4eac-a582-eb97ae829b3a",
+        "userId": "user_3",
+        "date": "2025-09-01",
+        "description": "Animal event charge just difference.",
+        "amount": 4128,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": -18102
+    },
+    {
+        "id": "189b9adf-78ac-475b-9447-8d62743c1fa2",
+        "userId": "user_3",
+        "date": "2025-09-12",
+        "description": "Treatment western stand.",
+        "amount": 3101,
+        "type": "Debit",
+        "category": "Others",
+        "balance": -21203
+    },
+    {
+        "id": "3a3f5f68-60f1-4feb-83d1-f51ff9e969a4",
+        "userId": "user_3",
+        "date": "2025-08-01",
+        "description": "Actually director major.",
+        "amount": 596,
+        "type": "Credit",
+        "category": "Travel",
+        "balance": -20607
+    },
+    {
+        "id": "7ca61e69-de16-42c5-b7d2-00f637f2b2ed",
+        "userId": "user_3",
+        "date": "2025-08-23",
+        "description": "Sometimes little.",
+        "amount": 1914,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": -22521
+    },
+    {
+        "id": "4179f4a5-9e76-4805-999a-c67f503a3b50",
+        "userId": "user_3",
+        "date": "2025-10-03",
+        "description": "Nearly pattern of marriage myself.",
+        "amount": 1020,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": -21501
+    },
+    {
+        "id": "25104a29-6443-4c0b-877d-20bcd01a8b4a",
+        "userId": "user_3",
+        "date": "2025-10-01",
+        "description": "Movie meet edge page.",
+        "amount": 2387,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": -23888
+    },
+    {
+        "id": "7abf3ec5-ff92-49cf-ab23-9c9af2f5b94b",
+        "userId": "user_3",
+        "date": "2025-07-30",
+        "description": "Method throw along relationship.",
+        "amount": 1711,
+        "type": "Debit",
+        "category": "Food",
+        "balance": -25599
+    },
+    {
+        "id": "c1a505c6-d9a6-457c-978d-07892f483a5f",
+        "userId": "user_3",
+        "date": "2025-09-05",
+        "description": "Bar project skill.",
+        "amount": 3343,
+        "type": "Credit",
+        "category": "Travel",
+        "balance": -22256
+    },
+    {
+        "id": "409527fa-6778-4c90-a91a-ac1fa438b348",
+        "userId": "user_3",
+        "date": "2025-09-21",
+        "description": "Society suffer.",
+        "amount": 3989,
+        "type": "Debit",
+        "category": "Food",
+        "balance": -26245
+    }
+]
